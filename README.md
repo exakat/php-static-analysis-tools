@@ -3,22 +3,23 @@
 A curated list of static analysis tools for PHP.
 
 ## Contributing
-See [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONTRIBUTING.md).
+See [CONTRIBUTING](https://github.com/exakat/php-static-analysis-tools/blob/master/CONTRIBUTING.md).
 
 ## Table of Contents
 
-* Bugs finders
-* Coding standards 
-* DIY
-* Fixers
-* Metrics
-* Saas
+* [Bugs finders](#bugs-finders)
+* [Coding standards](#coding-standards)
+* [DIY](#dyi)
+* [Fixers](#fixers)
+* [Metrics](#metrics)
+* [Saas](#saas)
+* [Misc](#misc)
 
 
 ### Bugs finders
 Tools that reports issues in the code that are or lead to bugs. 
 
-* [Exakat](http://www.exakat.io/) -  
+* [Exakat](http://www.exakat.io/) - Smart static analysis for PHP
 * [Mondrian](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
 * [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - phpcpd spots copy/pasted code, and help enforcing DRY rule.
 * [Phan](https://github.com/etsy/phan) - The static analyzer by Rasmus. 
@@ -79,7 +80,7 @@ Online services that review PHP code, provide dashboards. They may use the previ
 * [Insight](https://insight.sensiolabs.com/) - "SensioLabsInsight is a quality assurance tool that analyzes your source code to find problems that degrade the overall quality of your projects."
 * [Scrutinizer](https://scrutinizer-ci.com/) - "Improve code quality and find bugs before they hit production with our continuous inspection platform."
 
-### Misc
+## Misc
 
 * [HHVM](http://hhvm.com/) - Hack Language from Facebook. Add a SCA until version 3.3.8, newer version doesn't have anymore.
 * [PHP Manipulator](https://github.com/schmittjoh/php-manipulator) - A library for analysing and modifying PHP Source Code.
