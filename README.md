@@ -28,6 +28,7 @@ Tools that reports issues in the code that are or lead to bugs.
 * [PHPlint](http://www.icosaedro.it/phplint/) - PHPLint is a validator and documentator for PHP 5 programs
 * [PHP Mess Detector](http://phpmd.org/) - PHPMD takes a given PHP source code base and look for several potential problems within that source.
 * [PHP Reaper](https://github.com/emanuil/php-reaper.git) - PHP tool to scan ADOdb code for SQL Injections
+* [PHP SA](https://github.com/ovr/phpsa) - Static Analysis for PHP 
 * [PHP vuln hunter](https://github.com/OneSourceCat/phpvulhunter) - A tool that can scan php vulnerabilities automatically using static analysis methods
 * [RIPS](http://rips-scanner.sourceforge.net/) - A static source code analyser for vulnerabilities in PHP scripts
 * [psecio:parse](https://github.com/psecio/parse.git) - Parse : A PHP Security Scanner
@@ -73,7 +74,7 @@ Tools that measures the code : complexity, line of codes, etc.
 
 Online services that review PHP code, provide dashboards. They may use the previous tools or offer their own.
 
-* [Bliss](https://blissai.com/index.html) - Bliss automatically reviews your code in real-time and shows you how much it's worth in lines of code.
+* [Bliss](https://blissai.com/index.html) - "Bliss automatically reviews your code in real-time and shows you how much it's worth in lines of code".
 * [Checkmarx](http://lp.checkmarx.com/php-code-analysis/) - "Get a full PHP  static security code analysis and prevent security vulnerabilities"
 * [Codacy](https://www.codacy.com/) - "Codacy: Automated Code Review"
 * [Code Climate](https://codeclimate.com) - "Hosted static analysis for Ruby, PHP and JavaScript source code."
