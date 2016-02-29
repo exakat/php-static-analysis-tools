@@ -71,6 +71,7 @@ Tools that measures the code : complexity, line of codes, etc.
 * [PHP Metrics](https://github.com/Halleck45/PhpMetrics) - PHP Metrics calculates all sorts of metrics, and display them in a gorgeous interface.
 * [PHP Semantic Versioning Checker](https://github.com/tomzx/php-semver-checker) - Utility that check the semantic version of a given code.
 * [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) - Static code analysis to provide and verify a dependency graph against a defined architecture.
+* [PHP semver checker](https://github.com/tomzx/php-semver-checker) - Compares two source sets and determines the appropriate semantic versioning to apply.
 
 ### Saas
 
