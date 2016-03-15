@@ -21,6 +21,7 @@ Tools that reports issues in the code that are or lead to bugs.
 
 * [Exakat](http://www.exakat.io/) - Smart static analysis for PHP
 * [Mondrian](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
+* [php7mar](https://github.com/Alexia/php7mar) - PHP 7 Migration Assistant Report.
 * [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - phpcpd spots copy/pasted code, and help enforcing DRY rule.
 * [Phan](https://github.com/etsy/phan) - The static analyzer by Rasmus. 
 * [PHP Inspection](https://plugins.jetbrains.com/plugin/7622?pr=idea) - Static analysis for phpstorm. 
