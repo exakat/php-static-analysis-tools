@@ -48,6 +48,7 @@ Tools that review the way PHP code was written and more.
 Libraries that may be the base for a home-made static analyzer
 
 * [PHP-cfg](https://github.com/ircmaxell/php-cfg) - A Control Flow Graph implementation in PHP. Written by IrcMaxwell. 
+* [PHP coupling detector](https://github.com/akeneo/php-coupling-detector) - Check that your code has no unwanted coupled classes
 * [PHP Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP. Written by Nikita Popov, and based on the actual grammar of PHP.
 * [PHP Token Reflection](https://github.com/Andrewsville/PHP-Token-Reflection) - Library emulating the PHP internal reflection using just the tokenized source code. 
 * [PHPSandbox](https://github.com/fieryprophet/php-sandbox) - A full-scale PHP 5.3.2+ sandbox class that utilizes PHPParser to prevent sandboxed code from running unsafe code.
@@ -58,8 +59,7 @@ Libraries that may be the base for a home-made static analyzer
 
 Tools that automatically fix the code they are provided with. 
 
-* [php-refactoring-browser
-](https://github.com/QafooLabs/php-refactoring-browser) - A command line refactoring tool for PHP. 
+* [php-refactoring-browser](https://github.com/QafooLabs/php-refactoring-browser) - A command line refactoring tool for PHP. 
 * [PHP CS Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - Analyzes some PHP source code and tries to fix coding standards issues (PSR-1 and PSR-2 compatible)
 
 
@@ -73,7 +73,7 @@ Tools that measures the code : complexity, line of codes, etc.
 * [PHP Semantic Versioning Checker](https://github.com/tomzx/php-semver-checker) - Utility that check the semantic version of a given code.
 * [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) - Static code analysis to provide and verify a dependency graph against a defined architecture.
 * [PHP semver checker](https://github.com/tomzx/php-semver-checker) - Compares two source sets and determines the appropriate semantic versioning to apply.
-
+* [Quality Analyzer](https://github.com/Qafoo/QualityAnalyzer.git) - Quality Analyzer is a tool to visualize metrics and source code. 
 ### Saas
 
 Online services that review PHP code, provide dashboards. They may use the previous tools or offer their own.
@@ -89,6 +89,4 @@ Online services that review PHP code, provide dashboards. They may use the previ
 
 * [HHVM](http://hhvm.com/) - Hack Language from Facebook. Add a SCA until version 3.3.8, newer version doesn't have anymore.
 * [PHP Manipulator](https://github.com/schmittjoh/php-manipulator) - A library for analysing and modifying PHP Source Code.
-
-
 
