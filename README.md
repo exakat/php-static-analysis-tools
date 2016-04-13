@@ -21,7 +21,10 @@ Tools that reports issues in the code that are or lead to bugs.
 
 * [Exakat](http://www.exakat.io/) - Smart static analysis for PHP
 * [Mondrian](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
+* [PhpCodeAnalyzer](https://github.com/wapmorgan/PhpCodeAnalyzer.git) - finds usage of non-built-in extensions in your php code.
+* [PHPCodeFixer](https://github.com/wapmorgan/PhpCodeFixer) -  finds usage of deprecated functions, variables and ini directives in your php code.
 * [php7mar](https://github.com/Alexia/php7mar) - PHP 7 Migration Assistant Report.
+* [phpcallgraph](http://phpcallgraph.sourceforge.net/) - PHP 7 Migration Assistant Report.
 * [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - phpcpd spots copy/pasted code, and help enforcing DRY rule.
 * [Phan](https://github.com/etsy/phan) - The static analyzer by Rasmus. 
 * [PHP Inspection](https://plugins.jetbrains.com/plugin/7622?pr=idea) - Static analysis for phpstorm. 
@@ -74,6 +77,7 @@ Tools that measures the code : complexity, line of codes, etc.
 * [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) - Static code analysis to provide and verify a dependency graph against a defined architecture.
 * [PHP semver checker](https://github.com/tomzx/php-semver-checker) - Compares two source sets and determines the appropriate semantic versioning to apply.
 * [Quality Analyzer](https://github.com/Qafoo/QualityAnalyzer.git) - Quality Analyzer is a tool to visualize metrics and source code. 
+
 ### Saas
 
 Online services that review PHP code, provide dashboards. They may use the previous tools or offer their own.
