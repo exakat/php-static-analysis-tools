@@ -21,6 +21,7 @@ Tools that reports issues in the code that are or lead to bugs.
 
 * [Exakat](http://www.exakat.io/) - Smart static analysis for PHP
 * [Mondrian](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
+* [PHP Assumption](https://github.com/rskuipers/php-assumptions.git) - Finds <a href="http://rskuipers.com/entry/from-assumptions-to-assertions">weak assumptions</a> in the code, suggest to turn them into stronger validations.
 * [PhpCodeAnalyzer](https://github.com/wapmorgan/PhpCodeAnalyzer.git) - finds usage of non-built-in extensions in your php code.
 * [PHPCodeFixer](https://github.com/wapmorgan/PhpCodeFixer) -  finds usage of deprecated functions, variables and ini directives in your php code.
 * [php7mar](https://github.com/Alexia/php7mar) - PHP 7 Migration Assistant Report.
@@ -37,6 +38,8 @@ Tools that reports issues in the code that are or lead to bugs.
 * [RIPS](http://rips-scanner.sourceforge.net/) - A static source code analyser for vulnerabilities in PHP scripts
 * [psecio:parse](https://github.com/psecio/parse.git) - Parse : A PHP Security Scanner
 * [SonarQube](http://www.sonarqube.org/) - An open platform to manage code quality. It covers PHP code.
+* [Side Channel Analyzer](https://github.com/olivo/side-channel-analyzer) - Search for <a href="https://en.wikipedia.org/wiki/Side-channel_attack">side-channel vulnerable code</a>.
+
 * [Tuli](https://github.com/ircmaxell/Tuli) - A static analysis engine
 
 ### Coding standards 
