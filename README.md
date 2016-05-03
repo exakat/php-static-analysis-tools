@@ -39,7 +39,7 @@ Tools that reports issues in the code that are or lead to bugs.
 * [psecio:parse](https://github.com/psecio/parse.git) - Parse : A PHP Security Scanner
 * [SonarQube](http://www.sonarqube.org/) - An open platform to manage code quality. It covers PHP code.
 * [Side Channel Analyzer](https://github.com/olivo/side-channel-analyzer) - Search for <a href="https://en.wikipedia.org/wiki/Side-channel_attack">side-channel vulnerable code</a>.
-
+* [TaintPHP](https://github.com/olivo/TaintPHP.git) - Static Taint Analysis for PHP web applications. 
 * [Tuli](https://github.com/ircmaxell/Tuli) - A static analysis engine
 
 ### Coding standards 
@@ -53,6 +53,7 @@ Tools that review the way PHP code was written and more.
 
 Libraries that may be the base for a home-made static analyzer
 
+* [Deptrac](https://github.com/sensiolabs-de/deptrac.git) - Deptrac is a static code analysis tool that helps to enforce rules for dependencies between software layers.
 * [PHP-cfg](https://github.com/ircmaxell/php-cfg) - A Control Flow Graph implementation in PHP. Written by IrcMaxwell. 
 * [PHP coupling detector](https://github.com/akeneo/php-coupling-detector) - Check that your code has no unwanted coupled classes
 * [PHP Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP. Written by Nikita Popov, and based on the actual grammar of PHP.
