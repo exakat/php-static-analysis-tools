@@ -68,7 +68,7 @@ Tools that automatically fix the code they are provided with.
 
 * [php-refactoring-browser](https://github.com/QafooLabs/php-refactoring-browser) - A command line refactoring tool for PHP. 
 * [PHP CS Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - Analyzes some PHP source code and tries to fix coding standards issues (PSR-1 and PSR-2 compatible)
-
+* [https://github.com/dunglas/phpdoc-to-typehint](https://github.com/dunglas/phpdoc-to-typehint) - Turn your phpdocs comments to actual Typehint (arguments and return)
 
 ### Metrics
 
