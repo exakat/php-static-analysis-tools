@@ -19,6 +19,7 @@ See [CONTRIBUTING](https://github.com/exakat/php-static-analysis-tools/blob/mast
 ### Bugs finders
 Tools that reports issues in the code that are or lead to bugs. 
 
+* [Eir](https://github.com/Lixody/Eir) - Eir is a static vulnerability analysis tool for PHP applications written in C#
 * [Exakat](http://www.exakat.io/) - Smart static analysis for PHP
 * [Mondrian](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
 * [PHP Assumption](https://github.com/rskuipers/php-assumptions.git) - Finds <a href="http://rskuipers.com/entry/from-assumptions-to-assertions">weak assumptions</a> in the code, suggest to turn them into stronger validations.
