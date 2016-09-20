@@ -35,6 +35,7 @@ Tools that reports issues in the code that are or lead to bugs.
 * [PHP Mess Detector](http://phpmd.org/) - PHPMD takes a given PHP source code base and look for several potential problems within that source.
 * [PHP Reaper](https://github.com/emanuil/php-reaper.git) - PHP tool to scan ADOdb code for SQL Injections
 * [PHP SA](https://github.com/ovr/phpsa) - PHPSA is a development tool aimed at bringing complex analysis for PHP applications and libraries.
+* [PHP Unlocker](http://emanuilslavov.com/php-unlocker/) - "PHP-Unlocker is a static analysis tool that detects potential, unintended DB table locks for PHP applications using ADOdb."
 * [PHP vuln hunter](https://github.com/OneSourceCat/phpvulhunter) - A tool that can scan php vulnerabilities automatically using static analysis methods
 * [RIPS](http://rips-scanner.sourceforge.net/) - A static source code analyser for vulnerabilities in PHP scripts
 * [psecio:parse](https://github.com/psecio/parse.git) - Parse : A PHP Security Scanner
@@ -93,6 +94,7 @@ Online services that review PHP code, provide dashboards. They may use the previ
 * [Codacy](https://www.codacy.com/) - "Codacy: Automated Code Review"
 * [Code Climate](https://codeclimate.com) - "Hosted static analysis for Ruby, PHP and JavaScript source code."
 * [Insight](https://insight.sensiolabs.com/) - "SensioLabsInsight is a quality assurance tool that analyzes your source code to find problems that degrade the overall quality of your projects."
+* [Ripstech](https://www.ripstech.com/) - "The superior security software for PHP applications."
 * [Scrutinizer](https://scrutinizer-ci.com/) - "Improve code quality and find bugs before they hit production with our continuous inspection platform."
 
 ## Misc
