@@ -22,6 +22,7 @@ Tools that reports issues in the code that are or lead to bugs.
 * [Eir](https://github.com/Lixody/Eir) - Eir is a static vulnerability analysis tool for PHP applications written in C#
 * [Exakat](http://www.exakat.io/) - Smart static analysis for PHP
 * [Mondrian](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
+* [php-analysis](https://github.com/cwi-swat/php-analysis) - PHP Analysis in Rascal (PHP AiR).
 * [PHP Assumption](https://github.com/rskuipers/php-assumptions.git) - Finds <a href="http://rskuipers.com/entry/from-assumptions-to-assertions">weak assumptions</a> in the code, suggest to turn them into stronger validations.
 * [PhpCodeAnalyzer](https://github.com/wapmorgan/PhpCodeAnalyzer.git) - finds usage of non-built-in extensions in your php code.
 * [PHPCodeFixer](https://github.com/wapmorgan/PhpCodeFixer) -  finds usage of deprecated functions, variables and ini directives in your php code.
@@ -35,6 +36,7 @@ Tools that reports issues in the code that are or lead to bugs.
 * [PHP Mess Detector](http://phpmd.org/) - PHPMD takes a given PHP source code base and look for several potential problems within that source.
 * [PHP Reaper](https://github.com/emanuil/php-reaper.git) - PHP tool to scan ADOdb code for SQL Injections
 * [PHP SA](https://github.com/ovr/phpsa) - PHPSA is a development tool aimed at bringing complex analysis for PHP applications and libraries.
+* [PHP Stan](https://github.com/phpstan/phpstan) - "PHPStan focuses on finding errors in your code without actually running it. "
 * [PHP Unlocker](http://emanuilslavov.com/php-unlocker/) - "PHP-Unlocker is a static analysis tool that detects potential, unintended DB table locks for PHP applications using ADOdb."
 * [PHP vuln hunter](https://github.com/OneSourceCat/phpvulhunter) - A tool that can scan php vulnerabilities automatically using static analysis methods
 * [RIPS](http://rips-scanner.sourceforge.net/) - A static source code analyser for vulnerabilities in PHP scripts
@@ -43,6 +45,7 @@ Tools that reports issues in the code that are or lead to bugs.
 * [Side Channel Analyzer](https://github.com/olivo/side-channel-analyzer) - Search for <a href="https://en.wikipedia.org/wiki/Side-channel_attack">side-channel vulnerable code</a>.
 * [TaintPHP](https://github.com/olivo/TaintPHP.git) - Static Taint Analysis for PHP web applications. 
 * [Tuli](https://github.com/ircmaxell/Tuli) - A static analysis engine
+* [17eyes](https://github.com/17eyes/17eyes) - "PHP static analyzer written in Haskell"
 
 ### Coding standards 
 
