@@ -102,6 +102,7 @@ Online services that review PHP code, provide dashboards. They may use the previ
 
 ## Misc
 
+* [devbug](http://www.devbug.co.uk/) - DevBug is a basic PHP Static Code Analysis (SCA) tool written mostly in JavaScript.
 * [HHVM](http://hhvm.com/) - Hack Language from Facebook. Add a SCA until version 3.3.8, newer version doesn't have anymore.
 * [PHP Manipulator](https://github.com/schmittjoh/php-manipulator) - A library for analysing and modifying PHP Source Code.
 
