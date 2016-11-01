@@ -80,6 +80,7 @@ Tools that automatically fix the code they are provided with.
 
 Tools that measures the code : complexity, line of codes, etc. 
 
+* [Design Pattern Detector](https://github.com/Halleck45/DesignPatternDetector.git) - detection of design patterns in PHP code
 * [Dissect](https://github.com/jakubledl/dissect) - A set of tools for lexical and syntactical analysis.
 * [PHPLOC](https://github.com/sebastianbergmann/phploc) - Utility that measures the size of a PHP application, and count various structures.
 * [PHP Metrics](https://github.com/Halleck45/PhpMetrics) - PHP Metrics calculates all sorts of metrics, and display them in a gorgeous interface.
