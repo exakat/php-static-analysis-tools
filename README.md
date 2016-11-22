@@ -9,10 +9,10 @@ See [CONTRIBUTING](https://github.com/exakat/php-static-analysis-tools/blob/mast
 
 * [Bugs finders](#bugs-finders)
 * [Coding standards](#coding-standards)
-* [DIY](#dyi)
+* [DIY](#diy)
 * [Fixers](#fixers)
 * [Metrics](#metrics)
-* [Saas](#saas)
+* [SaaS](#saas)
 * [Misc](#misc)
 
 
@@ -90,7 +90,7 @@ Tools that measures the code : complexity, line of codes, etc.
 * [PHP semver checker](https://github.com/tomzx/php-semver-checker) - Compares two source sets and determines the appropriate semantic versioning to apply.
 * [Quality Analyzer](https://github.com/Qafoo/QualityAnalyzer.git) - Quality Analyzer is a tool to visualize metrics and source code. 
 
-### Saas
+### SaaS
 
 Online services that review PHP code, provide dashboards. They may use the previous tools or offer their own.
 
