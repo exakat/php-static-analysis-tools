@@ -9,7 +9,7 @@ See [CONTRIBUTING](https://github.com/exakat/php-static-analysis-tools/blob/mast
 
 * [Bugs finders](#bugs-finders)
 * [Coding standards](#coding-standards)
-* [DIY](#dyi)
+* [DIY](#diy)
 * [Fixers](#fixers)
 * [Metrics](#metrics)
 * [Saas](#saas)
