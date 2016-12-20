@@ -45,6 +45,7 @@ Tools to reports issues in code that are or lead to bugs.
 * [SonarQube](http://www.sonarqube.org/) - An open platform to manage code quality. It covers PHP code.
 * [Side Channel Analyzer](https://github.com/olivo/side-channel-analyzer) - Search for <a href="https://en.wikipedia.org/wiki/Side-channel_attack">side-channel vulnerable code</a>.
 * [TaintPHP](https://github.com/olivo/TaintPHP.git) - Static Taint Analyzer. 
+* [Taint'em All](http://taint.spro.ink/) - A taint analysis tool for the PHP language, it makes use of Static Taint Analysis + Symbolic Execution
 * [Tuli](https://github.com/ircmaxell/Tuli) - A static analysis engine.
 * [17eyes](https://github.com/17eyes/17eyes) - PHP static analyzer written in Haskell.
 
@@ -54,6 +55,7 @@ Tools to review the way PHP code was written and more.
 
 * [PHP Code Sniffer](https://github.com/squizlabs/PHP_CodeSniffer) - PHPCS checks the code for a large range of coding standard.
 * [PHPCheckstyle](https://github.com/PHPCheckstyle/phpcheckstyle) - A tool to help adhere to certain coding conventions.
+* [PHP formatter](https://github.com/mmoreram/php-formatter) - This PHP formatter aims to provide you some bulk actions for you PHP projects to ensure their consistency.
 
 ### DIY
 
