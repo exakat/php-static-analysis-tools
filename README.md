@@ -21,6 +21,7 @@ Tools to reports issues in code that are or lead to bugs.
 
 * [Eir](https://github.com/Lixody/Eir) - A static vulnerability analysis tool written in C#.
 * [Exakat](http://www.exakat.io/) - Smart static analysis.
+* [Garcon](https://github.com/GentlyGuitar/Garcon.git) - A static code analyser for vulnerabilities in PHP scripts. Currently supports SQL injection, command line injection and persistent XSS.
 * [Mondrian](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
 * [Pfff](https://github.com/facebook/pfff) - Tools for code analysis, visualizations, or style-preserving source transformation.
 * [php-analysis](https://github.com/cwi-swat/php-analysis) - PHP Analysis in Rascal (PHP AiR).
@@ -31,6 +32,7 @@ Tools to reports issues in code that are or lead to bugs.
 * [phpcallgraph](http://phpcallgraph.sourceforge.net/) - Generate static call graphs. Such a graph visualizes the call dependencies among methods or functions of an application..
 * [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - Spots copy/pasted code, and help enforcing DRY rule.
 * [Phan](https://github.com/etsy/phan) - The static analyzer by Rasmus, PHP Creator.
+* [Phortress](https://github.com/lowjoel/phortress) - A PHP static code analyser for potential vulnerabilities.
 * [PHP Inspection](https://plugins.jetbrains.com/plugin/7622?pr=idea) - Static analysis plugin for PHPStorm. 
 * [PHP lint](http://php.net/manual/en/features.commandline.options.php) - PHP itself, able to detect syntax error from command line. 
 * [PHPlint](http://www.icosaedro.it/phplint/) - A validator and documentator for PHP 5 programs.
@@ -44,7 +46,7 @@ Tools to reports issues in code that are or lead to bugs.
 * [RIPS](http://rips-scanner.sourceforge.net/) - Source code static analyser for vulnerabilities. Newer version is mixed model, free and paid.
 * [psecio:parse](https://github.com/psecio/parse.git) - Parse : A PHP Security Scanner
 * [SonarQube](http://www.sonarqube.org/) - An open platform to manage code quality. It covers PHP code.
-* [Side Channel Analyzer](https://github.com/olivo/side-channel-analyzer) - Search for <a href="https://en.wikipedia.org/wiki/Side-channel_attack">side-channel vulnerable code</a>.
+* [Side Channel Analyzer](https://github.com/olivo/side-channel-analyzer) - Search for side-channel vulnerable code.
 * [TaintPHP](https://github.com/olivo/TaintPHP.git) - Static Taint Analyzer. 
 * [Taint'em All](http://taint.spro.ink/) - A taint analysis tool for the PHP language, it makes use of Static Taint Analysis + Symbolic Execution
 * [Tuli](https://github.com/ircmaxell/Tuli) - A static analysis engine.
