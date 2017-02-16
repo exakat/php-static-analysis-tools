@@ -100,6 +100,7 @@ Tools to measures the code : complexity, line of codes, etc.
 
 Online services to PHP code, provide dashboards. They may use the previous tools or offer their own.
 
+* [AppChecker](https://npo-echelon.ru/en/solutions/appchecker.php) - Appchecker
 * [Bliss](https://blissai.com/index.html) - Automatically reviews code in real-time and shows how much it's worth in lines of code.
 * [Checkmarx](http://lp.checkmarx.com/php-code-analysis/) - Get a full PHP  static security code analysis and prevent security vulnerabilities.
 * [Codacy](https://www.codacy.com/) - Codacy: Automated Code Review.
