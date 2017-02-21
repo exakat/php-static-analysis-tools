@@ -36,6 +36,7 @@ Tools to reports issues in code that are or lead to bugs.
 * [PHP Inspection](https://plugins.jetbrains.com/plugin/7622?pr=idea) - Static analysis plugin for PHPStorm. 
 * [PHP lint](http://php.net/manual/en/features.commandline.options.php) - PHP itself, able to detect syntax error from command line. 
 * [PHPlint](http://www.icosaedro.it/phplint/) - A validator and documentator for PHP 5 programs.
+* [PHP-Parallel-Lint](https://github.com/JakubOnderka/PHP-Parallel-Lint) - A parallel php linting tool for PHP 5.3.3 or newer.
 * [PHP Mess Detector](http://phpmd.org/) - Look for several potential problems within source code.
 * [PHP Reaper](https://github.com/emanuil/php-reaper.git) - Scan ADOdb code for SQL Injections.
 * [PHP SA](https://github.com/ovr/phpsa) - A development tool aimed at bringing complex analysis for PHP applications and libraries.
