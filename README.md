@@ -19,6 +19,7 @@ See [CONTRIBUTING](https://github.com/exakat/php-static-analysis-tools/blob/mast
 ### Bugs finders
 Tools to reports issues in code that are or lead to bugs. 
 
+* [Code insight](https://github.com/console-helpers/code-insight) - A tool for analysing other project code bases.
 * [Eir](https://github.com/Lixody/Eir) - A static vulnerability analysis tool written in C#.
 * [Exakat](http://www.exakat.io/) - Smart static analysis.
 * [Garcon](https://github.com/GentlyGuitar/Garcon.git) - A static code analyser for vulnerabilities in PHP scripts. Currently supports SQL injection, command line injection and persistent XSS.
@@ -33,7 +34,9 @@ Tools to reports issues in code that are or lead to bugs.
 * [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - Spots copy/pasted code, and help enforcing DRY rule.
 * [Phan](https://github.com/etsy/phan) - The static analyzer by Rasmus, PHP Creator.
 * [Phortress](https://github.com/lowjoel/phortress) - A PHP static code analyser for potential vulnerabilities.
+* [PHP Code Static Analysis](https://github.com/joaaoleite/code-static-analysis) - PHP Code static analysis program made in nodeJS
 * [PHP Inspection](https://plugins.jetbrains.com/plugin/7622?pr=idea) - Static analysis plugin for PHPStorm. 
+* [PHP Integrator](https://github.com/php-integrator) - Indexes PHP code and performs static analysis for Atom editor.
 * [PHP lint](http://php.net/manual/en/features.commandline.options.php) - PHP itself, able to detect syntax error from command line. 
 * [PHPlint](http://www.icosaedro.it/phplint/) - A validator and documentator for PHP 5 programs.
 * [PHP Mess Detector](http://phpmd.org/) - Look for several potential problems within source code.
@@ -41,6 +44,7 @@ Tools to reports issues in code that are or lead to bugs.
 * [PHP SA](https://github.com/ovr/phpsa) - A development tool aimed at bringing complex analysis for PHP applications and libraries.
 * [PHP Stan](https://github.com/phpstan/phpstan) - Focuses on finding errors in code without actually running it.
 * [PHP Unlocker](http://emanuilslavov.com/php-unlocker/) - Detect potential, unintended DB table locks for PHP applications using ADOdb. Uses static analysis methods.
+* [PHP testability](https://github.com/edsonmedina/php_testability) - Analyses and produces a report with testability issues of a php codebase.
 * [PHP vuln hunter](https://github.com/OneSourceCat/phpvulhunter) - Scan PHP vulnerabilities automatically using static analysis methods.
 * [Psalm](https://getpsalm.org/) - A static analysis tool for finding errors in PHP applications 
 * [RIPS](http://rips-scanner.sourceforge.net/) - Source code static analyser for vulnerabilities. Newer version is mixed model, free and paid.
