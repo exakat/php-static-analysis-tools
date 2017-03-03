@@ -17,7 +17,7 @@ See [CONTRIBUTING](https://github.com/exakat/php-static-analysis-tools/blob/mast
 
 
 ### Bugs finders
-Tools to reports issues in code that are or lead to bugs. 
+Tools to report issues in code that are or lead to bugs. 
 
 * [Code insight](https://github.com/console-helpers/code-insight) - A tool for analysing other project code bases.
 * [Eir](https://github.com/Lixody/Eir) - A static vulnerability analysis tool written in C#.
@@ -34,7 +34,7 @@ Tools to reports issues in code that are or lead to bugs.
 * [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - Spots copy/pasted code, and help enforcing DRY rule.
 * [Phan](https://github.com/etsy/phan) - The static analyzer by Rasmus, PHP Creator.
 * [Phortress](https://github.com/lowjoel/phortress) - A PHP static code analyser for potential vulnerabilities.
-* [PHP Code Static Analysis](https://github.com/joaaoleite/code-static-analysis) - PHP Code static analysis program made in nodeJS
+* [PHP Code Static Analysis](https://github.com/joaaoleite/code-static-analysis) - PHP Code static analysis program made in nodeJS.
 * [PHP Inspection](https://plugins.jetbrains.com/plugin/7622?pr=idea) - Static analysis plugin for PHPStorm. 
 * [PHP Integrator](https://github.com/php-integrator) - Indexes PHP code and performs static analysis for Atom editor.
 * [PHP lint](http://php.net/manual/en/features.commandline.options.php) - PHP itself, able to detect syntax error from command line. 
@@ -47,13 +47,13 @@ Tools to reports issues in code that are or lead to bugs.
 * [PHP Unlocker](http://emanuilslavov.com/php-unlocker/) - Detect potential, unintended DB table locks for PHP applications using ADOdb. Uses static analysis methods.
 * [PHP testability](https://github.com/edsonmedina/php_testability) - Analyses and produces a report with testability issues of a php codebase.
 * [PHP vuln hunter](https://github.com/OneSourceCat/phpvulhunter) - Scan PHP vulnerabilities automatically using static analysis methods.
-* [Psalm](https://getpsalm.org/) - A static analysis tool for finding errors in PHP applications 
+* [Psalm](https://getpsalm.org/) - A static analysis tool for finding errors in PHP applications.
 * [RIPS](http://rips-scanner.sourceforge.net/) - Source code static analyser for vulnerabilities. Newer version is mixed model, free and paid.
-* [psecio:parse](https://github.com/psecio/parse.git) - Parse : A PHP Security Scanner
+* [psecio:parse](https://github.com/psecio/parse.git) - Parse : A PHP Security Scanner.
 * [SonarQube](http://www.sonarqube.org/) - An open platform to manage code quality. It covers PHP code.
 * [Side Channel Analyzer](https://github.com/olivo/side-channel-analyzer) - Search for side-channel vulnerable code.
 * [TaintPHP](https://github.com/olivo/TaintPHP.git) - Static Taint Analyzer. 
-* [Taint'em All](http://taint.spro.ink/) - A taint analysis tool for the PHP language, it makes use of Static Taint Analysis + Symbolic Execution
+* [Taint'em All](http://taint.spro.ink/) - A taint analysis tool for the PHP language, it makes use of Static Taint Analysis + Symbolic Execution.
 * [Tuli](https://github.com/ircmaxell/Tuli) - A static analysis engine.
 * [17eyes](https://github.com/17eyes/17eyes) - PHP static analyzer written in Haskell.
 
@@ -67,7 +67,7 @@ Tools to review the way PHP code was written and more.
 
 ### DIY
 
-Libraries that may be the base for a home-made static analyzer
+Libraries that may be the base for a home-made static analyzer.
 
 * [Deptrac](https://github.com/sensiolabs-de/deptrac.git) - A static code analysis tool to enforce rules for dependencies between software layers.
 * [PHP-cfg](https://github.com/ircmaxell/php-cfg) - A Control Flow Graph implementation in PHP. Written by IrcMaxwell. 
@@ -75,7 +75,7 @@ Libraries that may be the base for a home-made static analyzer
 * [PHP Parser](https://github.com/nikic/PHP-Parser) - Written in PHP by Nikita Popov and based on actual grammar of PHP.
 * [PHP Token Reflection](https://github.com/Andrewsville/PHP-Token-Reflection) - Library emulating the PHP internal reflection using just the tokenized source code. 
 * [PHPSandbox](https://github.com/fieryprophet/php-sandbox) - A full-scale PHP 5.3.2+ sandbox class that utilizes PHPParser to prevent sandboxed code from running unsafe code.
-* [Reflection](https://github.com/phpDocumentor/Reflection.git) - Reflection library to do Static Analysis for PHP Projects
+* [Reflection](https://github.com/phpDocumentor/Reflection.git) - Reflection library to do Static Analysis for PHP Projects.
 * [Better Reflection](https://github.com/Roave/BetterReflection) - Reflection library with additional features such as parsing docblock type hints, uses nikic's PHP Parser under the hood.
 
 ### Fixers
@@ -84,14 +84,14 @@ Tools to automatically fix the code they are provided with.
 
 * [php-refactoring-browser](https://github.com/QafooLabs/php-refactoring-browser) - CLI refactoring tool. 
 * [PHP CS Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - Analyzes and tries to fix coding standards issues (PSR-1 and PSR-2 compatible).
-* [phpdoc to typehint](https://github.com/dunglas/phpdoc-to-typehint) - Turn phpdocs comments to actual Typehint (arguments and return)
+* [phpdoc to typehint](https://github.com/dunglas/phpdoc-to-typehint) - Turn phpdocs comments to actual Typehint (arguments and return).
 * [Transphpile](https://github.com/jaytaph/Transphpile) - Write PHP 7, run PHP 5.6, with feature backport. 
 
 ### Metrics
 
-Tools to measures the code : complexity, line of codes, etc. 
+Tools to measure the code complexity, line of codes, etc. 
 
-* [Design Pattern Detector](https://github.com/Halleck45/DesignPatternDetector.git) - detection of design patterns in PHP code
+* [Design Pattern Detector](https://github.com/Halleck45/DesignPatternDetector.git) - detection of design patterns in PHP code.
 * [Dissect](https://github.com/jakubledl/dissect) - A set of tools for lexical and syntactical analysis.
 * [PHPLOC](https://github.com/sebastianbergmann/phploc) - Utility to measures PHP application size and count various structures.
 * [PHP Metrics](https://github.com/Halleck45/PhpMetrics) - Calculates all sorts of metrics, and display them in a gorgeous interface.
@@ -99,11 +99,11 @@ Tools to measures the code : complexity, line of codes, etc.
 * [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) - Static code analysis to provide and verify a dependency graph against a defined architecture.
 * [PHP semver checker](https://github.com/tomzx/php-semver-checker) - Compares two source sets and determines the appropriate semantic versioning to apply.
 * [Quality Analyzer](https://github.com/Qafoo/QualityAnalyzer.git) - Quality Analyzer is a tool to visualize metrics and source code. 
-* [dePHPend](https://github.com/mihaeu/dephpend) - dePHPend helps analyze dependencies & architecture and allows you to define constraints for both
+* [dePHPend](https://github.com/mihaeu/dephpend) - dePHPend helps analyze dependencies & architecture and allows you to define constraints for both.
 
 ### SaaS
 
-Online services to PHP code, provide dashboards. They may use the previous tools or offer their own.
+Online services for PHP code, provide dashboards. They may use the previous tools or offer their own.
 
 * [AppChecker](https://npo-echelon.ru/en/solutions/appchecker.php) - Appchecker
 * [Bliss](https://blissai.com/index.html) - Automatically reviews code in real-time and shows how much it's worth in lines of code.
@@ -121,4 +121,4 @@ Online services to PHP code, provide dashboards. They may use the previous tools
 * [PHP Analysis](https://github.com/cwi-swat/php-analysis) - A library for analysing and modifying PHP Source Code.
 * [PHP Manipulator](https://github.com/schmittjoh/php-manipulator) - A library for analysing and modifying PHP Source Code.
 * [PHP Parser](https://github.com/glayzzle/php-parser) - A NodeJS library for parsing PHP and extracting tokens and AST.
-* [PHPQA](https://edgedesigncz.github.io/phpqa/) - A Wrapper to a lot of PHP tools reported into a single html file.
+* [PHPQA](https://edgedesigncz.github.io/phpqa/) - A Wrapper to a lot of PHP tools reported into a single HTML file.
