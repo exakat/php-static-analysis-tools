@@ -19,6 +19,7 @@ See [CONTRIBUTING](https://github.com/exakat/php-static-analysis-tools/blob/mast
 ### Bugs finders
 Tools to report issues in code that are or lead to bugs. 
 
+* [AppChecker](https://npo-echelon.ru/en/solutions/appchecker.php) - static analysis tool for finding bugs, weaknesses and vulnerabilities in source code
 * [Code insight](https://github.com/console-helpers/code-insight) - A tool for analysing other project code bases.
 * [Eir](https://github.com/Lixody/Eir) - A static vulnerability analysis tool written in C#.
 * [Exakat](http://www.exakat.io/) - Smart static analysis.
@@ -106,7 +107,7 @@ Tools to measure the code complexity, line of codes, etc.
 
 Online services for PHP code, provide dashboards. They may use the previous tools or offer their own.
 
-* [AppChecker](https://npo-echelon.ru/en/solutions/appchecker.php) - Appchecker
+
 * [Bliss](https://blissai.com/index.html) - Automatically reviews code in real-time and shows how much it's worth in lines of code.
 * [Checkmarx](http://lp.checkmarx.com/php-code-analysis/) - Get a full PHP  static security code analysis and prevent security vulnerabilities.
 * [Codacy](https://www.codacy.com/) - Codacy: Automated Code Review.
