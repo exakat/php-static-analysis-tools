@@ -41,6 +41,7 @@ Tools to report issues in code that are or lead to bugs.
 * [PHP lint](http://php.net/manual/en/features.commandline.options.php) - PHP itself, able to detect syntax error from command line.
 * [PHPlint](http://www.icosaedro.it/phplint/) - A validator and documentator for PHP 5 programs.
 * [PHP-Parallel-Lint](https://github.com/JakubOnderka/PHP-Parallel-Lint) - A parallel php linting tool for PHP 5.3.3 or newer
+* [PHP Magic Number Detector](https://github.com/povils/phpmnd) - PHP Magic Number Detector
 * [PHP-malware-finder](https://github.com/nbs-system/php-malware-finder) - Detect potentially malicious PHP files
 * [PHP Mess Detector](http://phpmd.org/) - Look for several potential problems within source code.
 * [PHP Reaper](https://github.com/emanuil/php-reaper.git) - Scan ADOdb code for SQL Injections.
@@ -58,7 +59,7 @@ Tools to report issues in code that are or lead to bugs.
 * [Taint'em All](http://taint.spro.ink/) - A taint analysis tool for the PHP language, it makes use of Static Taint Analysis + Symbolic Execution.
 * [Tuli](https://github.com/ircmaxell/Tuli) - A static analysis engine.
 * [17eyes](https://github.com/17eyes/17eyes) - PHP static analyzer written in Haskell.
-* [WAP](https://www.owasp.org/index.php/OWASP_WAP-Web_Application_Protection) - Tool to detect and correct input validation vulnerabilities in PHP (4.0 or higher) web applications and predicts false positives. It combines source code static analysis and data mining to detect vulnerabilities and predict false positives. 
+* [WAP](https://www.owasp.org/index.php/OWASP_WAP-Web_Application_Protection) - Tool to detect and correct input validation vulnerabilities in PHP (4.0 or higher) web applications and predicts false positives. 
 
 ### Coding standards
 
