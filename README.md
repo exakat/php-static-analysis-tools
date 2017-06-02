@@ -65,9 +65,12 @@ Tools to report issues in code that are or lead to bugs.
 
 Tools to review the way PHP code was written and more.
 
+* [Magento Extension Quality Program](https://github.com/magento/marketplace-eqp) - Magento EQP Coding Standard is a set of rules and sniffs for PHP_CodeSniffer tool.
+* [PHPCompatibility](https://github.com/wimg/PHPCompatibility) - PHP Compatibility check for PHP_CodeSniffer.
 * [PHP Code Sniffer](https://github.com/squizlabs/PHP_CodeSniffer) - PHPCS checks the code for a large range of coding standard.
 * [PHPCheckstyle](https://github.com/PHPCheckstyle/phpcheckstyle) - A tool to help adhere to certain coding conventions.
 * [PHP formatter](https://github.com/mmoreram/php-formatter) - This PHP formatter aims to provide you some bulk actions for you PHP projects to ensure their consistency.
+* [WordPress Coding Standard](https://github.com/WordPress-Coding-Standards/WordPress-Coding-Standards) - PHP_CodeSniffer rules (sniffs) to enforce WordPress coding conventions
 
 ### DIY
 
