@@ -69,6 +69,7 @@ Tools to review the way PHP code was written and more.
 * [EasyCodingStandard](https://github.com/Symplify/EasyCodingStandard) - An easy to use tool, that allows to use CodeSniffer and PHP-CS-Fixer in simple way.
 * [PHPCheckstyle](https://github.com/PHPCheckstyle/phpcheckstyle) - A tool to help adhere to certain coding conventions.
 * [PHP formatter](https://github.com/mmoreram/php-formatter) - This PHP formatter aims to provide you some bulk actions for you PHP projects to ensure their consistency.
+* [Pahout](https://github.com/wata727/pahout) - A pair programming partner for writing better PHP.
 
 ### DIY
 
