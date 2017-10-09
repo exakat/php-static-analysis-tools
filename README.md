@@ -96,6 +96,7 @@ Tools to automatically fix the code they are provided with.
 
 Tools to measure the code complexity, line of codes, etc.
 
+* [churn-php](https://github.com/bmitch/churn-php) - Helps discover good candidates for refactoring.
 * [Design Pattern Detector](https://github.com/Halleck45/DesignPatternDetector.git) - detection of design patterns in PHP code.
 * [Dissect](https://github.com/jakubledl/dissect) - A set of tools for lexical and syntactical analysis.
 * [PHPLOC](https://github.com/sebastianbergmann/phploc) - Utility to measures PHP application size and count various structures.
