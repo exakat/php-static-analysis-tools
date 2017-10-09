@@ -120,6 +120,7 @@ Online services for PHP code, provide dashboards. They may use the previous tool
 * [Insight](https://insight.sensiolabs.com/) - A SensioLabs tool to analyzes source code to find problems that degrade the overall quality of your projects.
 * [RIPS](https://www.ripstech.com/) - The superior security software for PHP applications. Source code static analyser for vulnerabilities.
 * [Scrutinizer](https://scrutinizer-ci.com/) - Improve code quality and find bugs before they hit production with our continuous inspection platform.
+* [SideCI](https://sideci.com/) - CI for automated code review by code analysis.
 
 ## Misc
 
