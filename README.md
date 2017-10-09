@@ -51,6 +51,7 @@ Tools to report issues in code that are or lead to bugs.
 * [PHP Unlocker](http://emanuilslavov.com/php-unlocker/) - Detect potential, unintended DB table locks for PHP applications using ADOdb. Uses static analysis methods.
 * [PHP testability](https://github.com/edsonmedina/php_testability) - Analyses and produces a report with testability issues of a php codebase.
 * [PHP vuln hunter](https://github.com/OneSourceCat/phpvulhunter) - Scan PHP vulnerabilities automatically using static analysis methods.
+* [Progpilot](https://github.com/designsecurity/progpilot) - A static analysis tool for security purposes.
 * [Psalm](https://getpsalm.org/) - A static analysis tool for finding errors in PHP applications.
 * [psecio:parse](https://github.com/psecio/parse.git) - Parse : A PHP Security Scanner.
 * [SonarQube](http://www.sonarqube.org/) - An open platform to manage code quality. It covers PHP code.
