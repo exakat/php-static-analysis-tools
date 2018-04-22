@@ -89,6 +89,7 @@ Libraries that may be the base for a home-made static analyzer.
 
 Tools to automatically fix the code they are provided with.
 
+* [Rector](https://github.com/rectorphp/rector) - AST-based Instant Upgrades of PHP Applications
 * [php-refactoring-browser](https://github.com/QafooLabs/php-refactoring-browser) - CLI refactoring tool.
 * [PHP CS Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - Analyzes and tries to fix coding standards issues (PSR-1 and PSR-2 compatible).
 * [phpdoc to typehint](https://github.com/dunglas/phpdoc-to-typehint) - Turn phpdocs comments to actual Typehint (arguments and return).
