@@ -51,6 +51,7 @@ Tools to report issues in code that are or lead to bugs.
 * [PHP Unlocker](http://emanuilslavov.com/php-unlocker/) - Detect potential, unintended DB table locks for PHP applications using ADOdb. Uses static analysis methods.
 * [PHP testability](https://github.com/edsonmedina/php_testability) - Analyses and produces a report with testability issues of a php codebase.
 * [PHP vuln hunter](https://github.com/OneSourceCat/phpvulhunter) - Scan PHP vulnerabilities automatically using static analysis methods.
+* [Progpilot](https://github.com/designsecurity/progpilot) - A static analysis tool for security purposes.
 * [Psalm](https://getpsalm.org/) - A static analysis tool for finding errors in PHP applications.
 * [psecio:parse](https://github.com/psecio/parse.git) - Parse : A PHP Security Scanner.
 * [SonarQube](http://www.sonarqube.org/) - An open platform to manage code quality. It covers PHP code.
@@ -65,13 +66,11 @@ Tools to report issues in code that are or lead to bugs.
 
 Tools to review the way PHP code was written and more.
 
-* [Magento Extension Quality Program](https://github.com/magento/marketplace-eqp) - Magento EQP Coding Standard is a set of rules and sniffs for PHP_CodeSniffer tool.
-* [PHPCompatibility](https://github.com/wimg/PHPCompatibility) - PHP Compatibility check for PHP_CodeSniffer.
 * [PHP Code Sniffer](https://github.com/squizlabs/PHP_CodeSniffer) - PHPCS checks the code for a large range of coding standard.
 * [EasyCodingStandard](https://github.com/Symplify/EasyCodingStandard) - An easy to use tool, that allows to use CodeSniffer and PHP-CS-Fixer in simple way.
 * [PHPCheckstyle](https://github.com/PHPCheckstyle/phpcheckstyle) - A tool to help adhere to certain coding conventions.
 * [PHP formatter](https://github.com/mmoreram/php-formatter) - This PHP formatter aims to provide you some bulk actions for you PHP projects to ensure their consistency.
-* [WordPress Coding Standard](https://github.com/WordPress-Coding-Standards/WordPress-Coding-Standards) - PHP_CodeSniffer rules (sniffs) to enforce WordPress coding conventions
+* [Pahout](https://github.com/wata727/pahout) - A pair programming partner for writing better PHP.
 
 ### DIY
 
@@ -90,15 +89,18 @@ Libraries that may be the base for a home-made static analyzer.
 
 Tools to automatically fix the code they are provided with.
 
+* [Rector](https://github.com/rectorphp/rector) - AST-based Instant Upgrades of PHP Applications
 * [php-refactoring-browser](https://github.com/QafooLabs/php-refactoring-browser) - CLI refactoring tool.
 * [PHP CS Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - Analyzes and tries to fix coding standards issues (PSR-1 and PSR-2 compatible).
 * [phpdoc to typehint](https://github.com/dunglas/phpdoc-to-typehint) - Turn phpdocs comments to actual Typehint (arguments and return).
 * [Transphpile](https://github.com/jaytaph/Transphpile) - Write PHP 7, run PHP 5.6, with feature backport.
+* [PHP Weaver](https://github.com/troelskn/phpweaver) - Analysing parameter types at runtime and generate the appropriate phpdocs.
 
 ### Metrics
 
 Tools to measure the code complexity, line of codes, etc.
 
+* [churn-php](https://github.com/bmitch/churn-php) - Helps discover good candidates for refactoring.
 * [Design Pattern Detector](https://github.com/Halleck45/DesignPatternDetector.git) - detection of design patterns in PHP code.
 * [Dissect](https://github.com/jakubledl/dissect) - A set of tools for lexical and syntactical analysis.
 * [PHPLOC](https://github.com/sebastianbergmann/phploc) - Utility to measures PHP application size and count various structures.
@@ -120,6 +122,7 @@ Online services for PHP code, provide dashboards. They may use the previous tool
 * [Insight](https://insight.sensiolabs.com/) - A SensioLabs tool to analyzes source code to find problems that degrade the overall quality of your projects.
 * [RIPS](https://www.ripstech.com/) - The superior security software for PHP applications. Source code static analyser for vulnerabilities.
 * [Scrutinizer](https://scrutinizer-ci.com/) - Improve code quality and find bugs before they hit production with our continuous inspection platform.
+* [SideCI](https://sideci.com/) - CI for automated code review by code analysis.
 
 ## Misc
 
@@ -130,3 +133,4 @@ Online services for PHP code, provide dashboards. They may use the previous tool
 * [PHPQA](https://edgedesigncz.github.io/phpqa/) - A Wrapper to a lot of PHP tools reported into a single HTML file.
 * [Fixtro](https://github.com/karlosagudo/fixtro) - A wrapper that allow to run in each precommit. It install itself all the dependencies for the runners with a lot of them (phpunit, phpmd, php-cs-fixer, etc..)
 * [Coverage Checker](https://github.com/exussum12/coverageChecker) - A tool which allows some of the tools here to be enforced on changed code only. Good for moving towards new standards
+* [Composer Require Checker](https://github.com/maglnet/ComposerRequireChecker) - A CLI tool to check whether a specific composer package uses imported symbols that aren't part of its direct composer dependencies
