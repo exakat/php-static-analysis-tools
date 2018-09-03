@@ -124,6 +124,7 @@ Online services for PHP code, provide dashboards. They may use the previous tool
 * [Codacy](https://www.codacy.com/) - Codacy: Automated Code Review.
 * [Code Climate](https://codeclimate.com) - Hosted static analysis for Ruby, PHP and JavaScript source code.
 * [Insight](https://insight.sensiolabs.com/) - A SensioLabs tool to analyzes source code to find problems that degrade the overall quality of your projects.
+* [PrettyCI](https://prettyci.com/) - PrettyCI is a continuous integration service for coding style that is based on PHP CodeSniffer and PHP-CS-Fixer.
 * [RIPS](https://www.ripstech.com/) - The superior security software for PHP applications. Source code static analyser for vulnerabilities.
 * [Scrutinizer](https://scrutinizer-ci.com/) - Improve code quality and find bugs before they hit production with our continuous inspection platform.
 * [SideCI](https://sideci.com/) - CI for automated code review by code analysis.
