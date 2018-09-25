@@ -41,6 +41,7 @@ Tools to report issues in code that are or lead to bugs.
 * [PHP Code Static Analysis](https://github.com/joaaoleite/code-static-analysis) - PHP Code static analysis program made in nodeJS.
 * [PHP Inspection](https://plugins.jetbrains.com/plugin/7622?pr=idea) - Static analysis plugin for PHPStorm.
 * [PHP Integrator](https://github.com/php-integrator) - Indexes PHP code and performs static analysis for Atom editor.
+* [Phlint](https://gitlab.com/phlint/phlint) - Phlint is a tool with an aim to help maintain quality of php code by analyzing code and pointing out potential code issues.
 * [PHP lint](http://php.net/manual/en/features.commandline.options.php) - PHP itself, able to detect syntax error from command line.
 * [PHPlint](http://www.icosaedro.it/phplint/) - A validator and documentator for PHP 5 programs.
 * [PHP-Parallel-Lint](https://github.com/JakubOnderka/PHP-Parallel-Lint) - A parallel php linting tool for PHP 5.3.3 or newer
@@ -97,6 +98,7 @@ Tools to automatically fix the code they are provided with.
 * [php-refactoring-browser](https://github.com/QafooLabs/php-refactoring-browser) - CLI refactoring tool.
 * [PHP CS Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - Analyzes and tries to fix coding standards issues (PSR-1 and PSR-2 compatible).
 * [phpdoc to typehint](https://github.com/dunglas/phpdoc-to-typehint) - Turn phpdocs comments to actual Typehint (arguments and return).
+* [php-scoper](https://github.com/humbug/php-scoper) -  Prefixes all PHP namespaces in a file/directory to isolate the code bundled in PHARs.
 * [Transphpile](https://github.com/jaytaph/Transphpile) - Write PHP 7, run PHP 5.6, with feature backport.
 * [PHP Weaver](https://github.com/troelskn/phpweaver) - Analysing parameter types at runtime and generate the appropriate phpdocs.
 
