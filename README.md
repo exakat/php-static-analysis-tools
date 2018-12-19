@@ -25,7 +25,6 @@ Tools to report issues in code that are or lead to bugs.
 * [Churn-PHP](https://github.com/bmitch/churn-php.git) - Discover files in need of refactoring.
 * [Eir](https://github.com/Lixody/Eir) - A static vulnerability analysis tool written in C#.
 * [Exakat](http://www.exakat.io/) - Smart static analysis.
-* [Garcon](https://github.com/GentlyGuitar/Garcon.git) - A static code analyser for vulnerabilities in PHP scripts. Currently supports SQL injection, command line injection and persistent XSS.
 * [jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code. 
 * [Mondrian](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
 * [Pfff](https://github.com/facebook/pfff) - Tools for code analysis, visualizations, or style-preserving source transformation.
