@@ -64,6 +64,7 @@ Tools to report issues in code that are or lead to bugs.
 * [Tuli](https://github.com/ircmaxell/Tuli) - A static analysis engine.
 * [17eyes](https://github.com/17eyes/17eyes) - PHP static analyzer written in Haskell.
 * [WAP](https://www.owasp.org/index.php/OWASP_WAP-Web_Application_Protection) - Tool to detect and correct input validation vulnerabilities in PHP (4.0 or higher) web applications and predicts false positives. 
+* [PHP VarDump Check](https://github.com/JakubOnderka/PHP-Var-Dump-Check) - PHP console application for find forgotten variable dump. Support PHP build in method print_r, var_dump and var_export method and also method from Tracy debugger, Ladybug, Symfony, Laravel, Doctrine and Zend Framework.
 
 ### Coding standards
 
