@@ -77,6 +77,7 @@ Tools to review the way PHP code was written and more.
 * [PHPCheckstyle](https://github.com/PHPCheckstyle/phpcheckstyle) - A tool to help adhere to certain coding conventions.
 * [PHP formatter](https://github.com/mmoreram/php-formatter) - This PHP formatter aims to provide you some bulk actions for you PHP projects to ensure their consistency.
 * [Pahout](https://github.com/wata727/pahout) - A pair programming partner for writing better PHP.
+* [PHP Doc Check](https://github.com/NielsdeBlaauw/php-doc-check) - Uses complexity metrics to enforce documentation conventions on non-trivial functions.
 
 ### DIY
 
