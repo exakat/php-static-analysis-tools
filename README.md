@@ -135,6 +135,7 @@ Online services for PHP code, provide dashboards. They may use the previous tool
 * [Checkmarx](http://lp.checkmarx.com/php-code-analysis/) - Get a full PHP  static security code analysis and prevent security vulnerabilities.
 * [Codacy](https://www.codacy.com/) - Codacy: Automated Code Review.
 * [Code Climate](https://codeclimate.com) - Hosted static analysis for Ruby, PHP and JavaScript source code.
+* [CodeScene](https://codescene.io/) - Prioritize technical debt in PHP, JavaScript, etc.
 * [Insight](https://insight.sensiolabs.com/) - A SensioLabs tool to analyzes source code to find problems that degrade the overall quality of your projects.
 * [RIPS](https://www.ripstech.com/) - The superior security software for PHP applications. Source code static analyser for vulnerabilities.
 * [Scrutinizer](https://scrutinizer-ci.com/) - Improve code quality and find bugs before they hit production with our continuous inspection platform.
