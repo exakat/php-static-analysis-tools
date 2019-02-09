@@ -25,11 +25,11 @@ Tools to report issues in code that are or lead to bugs.
 * [Churn-PHP](https://github.com/bmitch/churn-php.git) - Discover files in need of refactoring.
 * [Eir](https://github.com/Lixody/Eir) - A static vulnerability analysis tool written in C#.
 * [Exakat](http://www.exakat.io/) - Smart static analysis.
-* [Garcon](https://github.com/GentlyGuitar/Garcon.git) - A static code analyser for vulnerabilities in PHP scripts. Currently supports SQL injection, command line injection and persistent XSS.
 * [jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code. 
 * [Mondrian](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
 * [Pfff](https://github.com/facebook/pfff) - Tools for code analysis, visualizations, or style-preserving source transformation.
 * [PHP Analysis](https://github.com/cwi-swat/php-analysis) - A library for analysing and modifying PHP Source Code in Rascal (PHP AiR).
+* [PHParch](https://github.com/j6s/phparch.git) - PHPArch is a work in progress architectural testing library for PHP projects. 
 * [PHP Assumption](https://github.com/rskuipers/php-assumptions.git) - Finds <a href="http://rskuipers.com/entry/from-assumptions-to-assertions">weak assumptions</a> in the code, suggest to turn them into stronger validations.
 * [PhpCodeAnalyzer](https://github.com/wapmorgan/PhpCodeAnalyzer.git) - Finds usage of non-built-in extensions.
 * [PHPCodeFixer](https://github.com/wapmorgan/PhpCodeFixer) -  Finds usage of deprecated functions, variables and ini directives.
@@ -37,6 +37,7 @@ Tools to report issues in code that are or lead to bugs.
 * [phpcallgraph](http://phpcallgraph.sourceforge.net/) - Generate static call graphs. Such a graph visualizes the call dependencies among methods or functions of an application..
 * [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - Spots copy/pasted code, and help enforcing DRY rule.
 * [Phan](https://github.com/etsy/phan) - The static analyzer by Rasmus, PHP Creator.
+* [Phinder](https://github.com/sider/phinder.git) - PHP code piece finder
 * [Phortress](https://github.com/lowjoel/phortress) - A PHP static code analyser for potential vulnerabilities.
 * [PHP Code Static Analysis](https://github.com/joaaoleite/code-static-analysis) - PHP Code static analysis program made in nodeJS.
 * [PHP Inspection](https://plugins.jetbrains.com/plugin/7622?pr=idea) - Static analysis plugin for PHPStorm.
@@ -62,9 +63,10 @@ Tools to report issues in code that are or lead to bugs.
 * [TaintPHP](https://github.com/olivo/TaintPHP.git) - Static Taint Analyzer.
 * [Taint'em All](http://taint.spro.ink/) - A taint analysis tool for the PHP language, it makes use of Static Taint Analysis + Symbolic Execution.
 * [Tuli](https://github.com/ircmaxell/Tuli) - A static analysis engine.
-* [17eyes](https://github.com/17eyes/17eyes) - PHP static analyzer written in Haskell.
+* [Unused-scanner](https://github.com/Insolita/unused-scanner.git) - Detect unused composer dependencies
 * [WAP](https://www.owasp.org/index.php/OWASP_WAP-Web_Application_Protection) - Tool to detect and correct input validation vulnerabilities in PHP (4.0 or higher) web applications and predicts false positives. 
 * [PHP VarDump Check](https://github.com/JakubOnderka/PHP-Var-Dump-Check) - PHP console application for finding forgotten variable dump.
+* [17eyes](https://github.com/17eyes/17eyes) - PHP static analyzer written in Haskell.
 
 ### Coding standards
 
@@ -75,6 +77,7 @@ Tools to review the way PHP code was written and more.
 * [PHPCheckstyle](https://github.com/PHPCheckstyle/phpcheckstyle) - A tool to help adhere to certain coding conventions.
 * [PHP formatter](https://github.com/mmoreram/php-formatter) - This PHP formatter aims to provide you some bulk actions for you PHP projects to ensure their consistency.
 * [Pahout](https://github.com/wata727/pahout) - A pair programming partner for writing better PHP.
+* [PHP Doc Check](https://github.com/NielsdeBlaauw/php-doc-check) - Uses complexity metrics to enforce documentation conventions on non-trivial functions.
 
 ### DIY
 
@@ -109,13 +112,19 @@ Tools to measure the code complexity, line of codes, etc.
 
 * [churn-php](https://github.com/bmitch/churn-php) - Helps discover good candidates for refactoring.
 * [Design Pattern Detector](https://github.com/Halleck45/DesignPatternDetector.git) - detection of design patterns in PHP code.
+* [dePHPend](https://github.com/mihaeu/dephpend) - dePHPend helps analyze dependencies & architecture and allows you to define constraints for both.
 * [Dissect](https://github.com/jakubledl/dissect) - A set of tools for lexical and syntactical analysis.
 * [PHPLOC](https://github.com/sebastianbergmann/phploc) - Utility to measures PHP application size and count various structures.
 * [PHP Metrics](https://github.com/Halleck45/PhpMetrics) - Calculates all sorts of metrics, and display them in a gorgeous interface.
 * [PHP Semantic Versioning Checker](https://github.com/tomzx/php-semver-checker) - Compares two source sets and determines the appropriate semantic versioning to apply.
 * [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) - Static code analysis to provide and verify a dependency graph against a defined architecture.
 * [Quality Analyzer](https://github.com/Qafoo/QualityAnalyzer.git) - Quality Analyzer is a tool to visualize metrics and source code.
-* [dePHPend](https://github.com/mihaeu/dephpend) - dePHPend helps analyze dependencies & architecture and allows you to define constraints for both.
+
+### Visualization
+
+Tools that display PHP code in graphical way
+
+* [PHPcity](https://github.com/adrianhuna/PHPCity) - PHPCity is an implementation of city metaphor visualization and provides visualization of PHP projects which are implemented in the object-oriented fashion.
 
 ### SaaS
 
@@ -126,6 +135,7 @@ Online services for PHP code, provide dashboards. They may use the previous tool
 * [Checkmarx](http://lp.checkmarx.com/php-code-analysis/) - Get a full PHP  static security code analysis and prevent security vulnerabilities.
 * [Codacy](https://www.codacy.com/) - Codacy: Automated Code Review.
 * [Code Climate](https://codeclimate.com) - Hosted static analysis for Ruby, PHP and JavaScript source code.
+* [CodeScene](https://codescene.io/) - Prioritize technical debt in PHP, JavaScript, etc.
 * [Insight](https://insight.sensiolabs.com/) - A SensioLabs tool to analyzes source code to find problems that degrade the overall quality of your projects.
 * [RIPS](https://www.ripstech.com/) - The superior security software for PHP applications. Source code static analyser for vulnerabilities.
 * [Scrutinizer](https://scrutinizer-ci.com/) - Improve code quality and find bugs before they hit production with our continuous inspection platform.
@@ -142,3 +152,4 @@ Online services for PHP code, provide dashboards. They may use the previous tool
 * [Fixtro](https://github.com/karlosagudo/fixtro) - A wrapper that allow to run in each precommit. It install itself all the dependencies for the runners with a lot of them (phpunit, phpmd, php-cs-fixer, etc..)
 * [Coverage Checker](https://github.com/exussum12/coverageChecker) - A tool which allows some of the tools here to be enforced on changed code only. Good for moving towards new standards
 * [Composer Require Checker](https://github.com/maglnet/ComposerRequireChecker) - A CLI tool to check whether a specific composer package uses imported symbols that aren't part of its direct composer dependencies
+* [phpstaticanalysis.com](https://phpstaticanalysis.com/demo) - A website that lets you try some PHP static analysis command-line tools online
