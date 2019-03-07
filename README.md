@@ -65,6 +65,7 @@ Tools to report issues in code that are or lead to bugs.
 * [Tuli](https://github.com/ircmaxell/Tuli) - A static analysis engine.
 * [Unused-scanner](https://github.com/Insolita/unused-scanner.git) - Detect unused composer dependencies
 * [WAP](https://www.owasp.org/index.php/OWASP_WAP-Web_Application_Protection) - Tool to detect and correct input validation vulnerabilities in PHP (4.0 or higher) web applications and predicts false positives. 
+* [PHP VarDump Check](https://github.com/JakubOnderka/PHP-Var-Dump-Check) - PHP console application for finding forgotten variable dump.
 * [17eyes](https://github.com/17eyes/17eyes) - PHP static analyzer written in Haskell.
 
 ### Coding standards
