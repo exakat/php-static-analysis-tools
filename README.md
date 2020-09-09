@@ -39,6 +39,7 @@ Tools to report issues in code that are or lead to bugs.
 * [php7mar](https://github.com/Alexia/php7mar) - PHP 7 Migration Assistant Report.
 * [phpcallgraph](http://phpcallgraph.sourceforge.net/) - Generate static call graphs. Such a graph visualizes the call dependencies among methods or functions of an application..
 * [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - Spots copy/pasted code, and help enforcing DRY rule.
+* [PHPDoctor](https://github.com/voku/PHPDoctor) - Check PHP files or directories for missing types.
 * [Phan](https://github.com/etsy/phan) - The static analyzer by Rasmus, PHP Creator.
 * [Phinder](https://github.com/sider/phinder.git) - PHP code piece finder
 * [Phortress](https://github.com/lowjoel/phortress) - A PHP static code analyser for potential vulnerabilities.
