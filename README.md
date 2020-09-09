@@ -46,7 +46,7 @@ Tools to report issues in code that are or lead to bugs.
 * [Phlint](https://gitlab.com/phlint/phlint) - Phlint is a tool with an aim to help maintain quality of php code by analyzing code and pointing out potential code issues.
 * [PHP lint](http://php.net/manual/en/features.commandline.options.php) - PHP itself, able to detect syntax error from command line.
 * [PHPlint](http://www.icosaedro.it/phplint/) - A validator and documentator for PHP 5 programs.
-* [PHP-Parallel-Lint](https://github.com/JakubOnderka/PHP-Parallel-Lint) - A parallel php linting tool for PHP 5.3.3 or newer
+* [PHP-Parallel-Lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) - A parallel php linting tool for PHP 5.4 or newer
 * [PHP Magic Number Detector](https://github.com/povils/phpmnd) - PHP Magic Number Detector
 * [PHP-malware-finder](https://github.com/nbs-system/php-malware-finder) - Detect potentially malicious PHP files
 * [PHP Mess Detector](http://phpmd.org/) - Look for several potential problems within source code.
