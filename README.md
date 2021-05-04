@@ -28,7 +28,7 @@ Tools to report issues in code that are or lead to bugs.
 * [jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code. 
 * [Mondrian](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
 * [noverify](https://github.com/VKCOM/noverify) - Pretty fast linter (code static analysis utility) for PHP.
-* [Pfff](https://github.com/facebook/pfff) - Tools for code analysis, visualizations, or style-preserving source transformation.
+* [Pfff](https://github.com/facebook/pfff) - Tools for code analysis, visualizations, or style-preserving source transformation. (Deprecated - repository has been archived by the owner)
 * [PHP Analysis](https://github.com/cwi-swat/php-analysis) - A library for analysing and modifying PHP Source Code in Rascal (PHP AiR).
 * [PHP Architecture Tester](https://github.com/carlosas/phpat) - Easy to use architecture testing tool for PHP
 * [PHParch](https://github.com/j6s/phparch.git) - PHPArch is a work in progress architectural testing library for PHP projects. 
@@ -36,7 +36,7 @@ Tools to report issues in code that are or lead to bugs.
 * [PhpCodeAnalyzer](https://github.com/wapmorgan/PhpCodeAnalyzer.git) - Finds usage of non-built-in extensions.
 * [PHPCodeFixer](https://github.com/wapmorgan/PhpCodeFixer) -  Finds usage of deprecated functions, variables and ini directives.
 * [php-compat-info](https://github.com/llaville/php-compat-info) - Find out the minimum version and the extensions required for a piece of code to run.
-* [php7mar](https://github.com/Alexia/php7mar) - PHP 7 Migration Assistant Report.
+* [php7mar](https://github.com/Alexia/php7mar) - PHP 7 Migration Assistant Report. (Deprecated - repository has been archived by the owner)
 * [phpcallgraph](http://phpcallgraph.sourceforge.net/) - Generate static call graphs. Such a graph visualizes the call dependencies among methods or functions of an application..
 * [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - Spots copy/pasted code, and help enforcing DRY rule.
 * [PHPDoctor](https://github.com/voku/PHPDoctor) - Check PHP files or directories for missing types.
@@ -45,16 +45,15 @@ Tools to report issues in code that are or lead to bugs.
 * [Phortress](https://github.com/lowjoel/phortress) - A PHP static code analyser for potential vulnerabilities.
 * [PHP Code Static Analysis](https://github.com/joaaoleite/code-static-analysis) - PHP Code static analysis program made in nodeJS.
 * [PHP Inspection](https://plugins.jetbrains.com/plugin/7622?pr=idea) - Static analysis plugin for PHPStorm.
-* [PHP Integrator](https://github.com/php-integrator) - Indexes PHP code and performs static analysis for Atom editor.
 * [Phlint](https://gitlab.com/phlint/phlint) - Phlint is a tool with an aim to help maintain quality of php code by analyzing code and pointing out potential code issues.
-* [PHP lint](http://php.net/manual/en/features.commandline.options.php) - PHP itself, able to detect syntax error from command line.
+* [PHP lint](http://php.net/manual/en/features.commandline.options.php) - PHP itself, able to detect syntax error from command line by running `php -l /path/to/file.php`.
 * [PHPlint](http://www.icosaedro.it/phplint/) - A validator and documentator for PHP 5 programs.
 * [PHP-Parallel-Lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) - A parallel php linting tool for PHP 5.4 or newer
 * [PHP Magic Number Detector](https://github.com/povils/phpmnd) - PHP Magic Number Detector
 * [PHP-malware-finder](https://github.com/nbs-system/php-malware-finder) - Detect potentially malicious PHP files
 * [PHP Mess Detector](http://phpmd.org/) - Look for several potential problems within source code.
 * [PHP Reaper](https://github.com/emanuil/php-reaper.git) - Scan ADOdb code for SQL Injections.
-* [PHP SA](https://github.com/ovr/phpsa) - A development tool aimed at bringing complex analysis for PHP applications and libraries.
+* [PHP SA](https://github.com/ovr/phpsa) - A development tool aimed at bringing complex analysis for PHP applications and libraries. (Deprecated - repository has been archived by the owner)
 * [PHP Stan](https://github.com/phpstan/phpstan) - Focuses on finding errors in code without actually running it.
 * [PHP Unlocker](http://emanuilslavov.com/php-unlocker/) - Detect potential, unintended DB table locks for PHP applications using ADOdb. Uses static analysis methods.
 * [PHP testability](https://github.com/edsonmedina/php_testability) - Analyses and produces a report with testability issues of a php codebase.
@@ -62,13 +61,12 @@ Tools to report issues in code that are or lead to bugs.
 * [Progpilot](https://github.com/designsecurity/progpilot) - A static analysis tool for security purposes.
 * [Psalm](https://getpsalm.org/) - A static analysis tool for finding errors in PHP applications.
 * [psecio:parse](https://github.com/psecio/parse.git) - Parse : A PHP Security Scanner.
+* [Serenata](https://gitlab.com/Serenata) - Indexes PHP code and performs static analysis for multiple editors / IDEs. (Previously known as PHP Integrator)
 * [SonarQube](http://www.sonarqube.org/) - An open platform to manage code quality. It covers PHP code.
 * [Side Channel Analyzer](https://github.com/olivo/side-channel-analyzer) - Search for side-channel vulnerable code.
 * [TaintPHP](https://github.com/olivo/TaintPHP.git) - Static Taint Analyzer.
-* [Taint'em All](http://taint.spro.ink/) - A taint analysis tool for the PHP language, it makes use of Static Taint Analysis + Symbolic Execution.
 * [Tuli](https://github.com/ircmaxell/Tuli) - A static analysis engine.
 * [Unused-scanner](https://github.com/Insolita/unused-scanner.git) - Detect unused composer dependencies
-* [WAP](https://www.owasp.org/index.php/OWASP_WAP-Web_Application_Protection) - Tool to detect and correct input validation vulnerabilities in PHP (4.0 or higher) web applications and predicts false positives. 
 * [PHP VarDump Check](https://github.com/JakubOnderka/PHP-Var-Dump-Check) - PHP console application for finding forgotten variable dump.
 * [17eyes](https://github.com/17eyes/17eyes) - PHP static analyzer written in Haskell.
 
@@ -92,7 +90,7 @@ Libraries that may be the base for a home-made static analyzer.
 * [PHP coupling detector](https://github.com/akeneo/php-coupling-detector) - Check that code has no unwanted coupled classes.
 * [PHP Parser](https://github.com/nikic/PHP-Parser) - Written in PHP by Nikita Popov and based on actual grammar of PHP.
 * [PHP Token Reflection](https://github.com/Andrewsville/PHP-Token-Reflection) - Library emulating the PHP internal reflection using just the tokenized source code.
-* [PHPSandbox](https://github.com/fieryprophet/php-sandbox) - A full-scale PHP 5.3.2+ sandbox class that utilizes PHPParser to prevent sandboxed code from running unsafe code.
+* [PHPSandbox](https://github.com/fieryprophet/php-sandbox) - A full-scale PHP 5.3.2+ sandbox class that utilizes PHPParser to prevent sandboxed code from running unsafe code. (Deprecated - repository has been archived by the owner)
 * [Reflection](https://github.com/phpDocumentor/Reflection.git) - Reflection library to do Static Analysis for PHP Projects.
 * [Better Reflection](https://github.com/Roave/BetterReflection) - Reflection library with additional features such as parsing docblock type hints, uses nikic's PHP Parser under the hood.
 
@@ -103,9 +101,9 @@ Tools to automatically fix the code they are provided with.
 * [Rector](https://github.com/rectorphp/rector) - AST-based Instant Upgrades of PHP Applications
 * [FunctionFQNReplacer](https://github.com/Roave/FunctionFQNReplacer) - provides a way to replace relative references of functions in function calls with absolute references.
 * [PHP BackSlasher](https://github.com/nilportugues/php-backslasher) - Tool to add all PHP internal functions and constants to its namespace by adding backslash to them.
-* [php-refactoring-browser](https://github.com/QafooLabs/php-refactoring-browser) - CLI refactoring tool.
+* [php-refactoring-browser](https://github.com/QafooLabs/php-refactoring-browser) - CLI refactoring tool. (Deprecated - repository has been archived by the owner)
 * [PHP CS Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - Analyzes and tries to fix coding standards issues (PSR-1 and PSR-2 compatible).
-* [phpdoc to typehint](https://github.com/dunglas/phpdoc-to-typehint) - Turn phpdocs comments to actual Typehint (arguments and return).
+* [phpdoc to typehint](https://github.com/dunglas/phpdoc-to-typehint) - Turn phpdocs comments to actual Typehint (arguments and return). (Deprecated - repository has been archived by the owner)
 * [php-scoper](https://github.com/humbug/php-scoper) -  Prefixes all PHP namespaces in a file/directory to isolate the code bundled in PHARs.
 * [Transphpile](https://github.com/jaytaph/Transphpile) - Write PHP 7, run PHP 5.6, with feature backport.
 * [PHP Weaver](https://github.com/troelskn/phpweaver) - Analysing parameter types at runtime and generate the appropriate phpdocs.
@@ -140,21 +138,19 @@ Online services for PHP code, provide dashboards. They may use the previous tool
 * [Codacy](https://www.codacy.com/) - Codacy: Automated Code Review.
 * [Code Climate](https://codeclimate.com) - Hosted static analysis for Ruby, PHP and JavaScript source code.
 * [CodeScene](https://codescene.io/) - Prioritize technical debt in PHP, JavaScript, etc.
-* [Insight](https://insight.sensiolabs.com/) - A SensioLabs tool to analyzes source code to find problems that degrade the overall quality of your projects.
-* [RIPS](https://www.ripstech.com/) - The superior security software for PHP applications. Source code static analyser for vulnerabilities.
+* [RIPS](https://blog.sonarsource.com/sonarsource-acquires-rips-technologies/) - The superior security software for PHP applications. Source code static analyser for vulnerabilities. (Acquired by SonarSource, see SonarCloud or SonarQube.)
 * [Scrutinizer](https://scrutinizer-ci.com/) - Improve code quality and find bugs before they hit production with our continuous inspection platform.
 * [SideCI](https://sideci.com/) - CI for automated code review by code analysis.
+* [SonarCloud](https://www.sonarcloud.com) - Scans for bugs and vulnerabilities, supports PHP among other languages. Based off the same Sonar Scanner which SonarQube uses, but provides more insights on your code.
+* [SymphonyInsight](https://insight.symfony.com/) - A tool to analyze source code to find problems that degrade the overall quality of your projects. (Previously known as SensioLabs Insight)
 * [Laravelshift](https://laravelshift.com/) - the automated way to upgrade Laravel applications. Upgrade Laravel applications all the way from Laravel 4.2 to the latest version of Laravel.
 
 ## Misc
 
-* [devbug](http://www.devbug.co.uk/) - Ongoing work on PHP Analysis in Rascal (PHP AiR).
-* [HHVM](http://hhvm.com/) - Hack Language from Facebook. Add a SCA until version 3.3.8, newer version doesn't have anymore.
 * [PHP Manipulator](https://github.com/schmittjoh/php-manipulator) - A library for analysing and modifying PHP Source Code.
 * [PHP Parser](https://github.com/glayzzle/php-parser) - A NodeJS library for parsing PHP and extracting tokens and AST.
 * [PHPQA](https://edgedesigncz.github.io/phpqa/) - A Wrapper to a lot of PHP tools reported into a single HTML file.
 * [Fixtro](https://github.com/karlosagudo/fixtro) - A wrapper that allow to run in each precommit. It install itself all the dependencies for the runners with a lot of them (phpunit, phpmd, php-cs-fixer, etc..)
 * [Coverage Checker](https://github.com/exussum12/coverageChecker) - A tool which allows some of the tools here to be enforced on changed code only. Good for moving towards new standards
 * [Composer Require Checker](https://github.com/maglnet/ComposerRequireChecker) - A CLI tool to check whether a specific composer package uses imported symbols that aren't part of its direct composer dependencies
-* [phpstaticanalysis.com](https://phpstaticanalysis.com/demo) - A website that lets you try some PHP static analysis command-line tools online
 * [Static Analysis Results Baseliner](https://github.com/DaveLiddament/sarb) - A tool for generating a baseline from static analysis tools. 
