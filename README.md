@@ -102,6 +102,7 @@ Tools to automatically fix the code they are provided with.
 
 * [Rector](https://github.com/rectorphp/rector) - AST-based Instant Upgrades of PHP Applications
 * [FunctionFQNReplacer](https://github.com/Roave/FunctionFQNReplacer) - provides a way to replace relative references of functions in function calls with absolute references.
+* [Phpactor](https://github.com/phpactor/phpactor) - This project aims to provide heavy-lifting refactoring and introspection tools.
 * [PHP BackSlasher](https://github.com/nilportugues/php-backslasher) - Tool to add all PHP internal functions and constants to its namespace by adding backslash to them.
 * [php-refactoring-browser](https://github.com/QafooLabs/php-refactoring-browser) - CLI refactoring tool.
 * [PHP CS Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - Analyzes and tries to fix coding standards issues (PSR-1 and PSR-2 compatible).
@@ -138,11 +139,14 @@ Online services for PHP code, provide dashboards. They may use the previous tool
 * [Bliss](https://blissai.com/index.html) - Automatically reviews code in real-time and shows how much it's worth in lines of code.
 * [Checkmarx](http://lp.checkmarx.com/php-code-analysis/) - Get a full PHP  static security code analysis and prevent security vulnerabilities.
 * [Codacy](https://www.codacy.com/) - Codacy: Automated Code Review.
+* [CodeBeaat](https://codebeat.co/) - Decrease technical debt. Find refactoring opportunities.
 * [Code Climate](https://codeclimate.com) - Hosted static analysis for Ruby, PHP and JavaScript source code.
 * [CodeScene](https://codescene.io/) - Prioritize technical debt in PHP, JavaScript, etc.
+* [Deepsource](https://deepsource.io/) - DeepSource is a modern static analysis platform, built for engineering teams who move fast and don’t break things.
 * [Insight](https://insight.sensiolabs.com/) - A SensioLabs tool to analyzes source code to find problems that degrade the overall quality of your projects.
 * [RIPS](https://www.ripstech.com/) - The superior security software for PHP applications. Source code static analyser for vulnerabilities.
 * [Scrutinizer](https://scrutinizer-ci.com/) - Improve code quality and find bugs before they hit production with our continuous inspection platform.
+* [Sourcegraph](https://about.sourcegraph.com/) - Understand and search across your entire codebase
 * [SideCI](https://sideci.com/) - CI for automated code review by code analysis.
 * [Laravelshift](https://laravelshift.com/) - the automated way to upgrade Laravel applications. Upgrade Laravel applications all the way from Laravel 4.2 to the latest version of Laravel.
 
