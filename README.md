@@ -144,6 +144,7 @@ Online services for PHP code, provide dashboards. They may use the previous tool
 * [CodeScene](https://codescene.io/) - Prioritize technical debt in PHP, JavaScript, etc.
 * [Deepsource](https://deepsource.io/) - DeepSource is a modern static analysis platform, built for engineering teams who move fast and don’t break things.
 * [Insight](https://insight.sensiolabs.com/) - A SensioLabs tool to analyzes source code to find problems that degrade the overall quality of your projects.
+* [Insphpect](https://insphpect.com/) - Insphpect is an automated code review tool which identifies inflexibilities in PHP code and helps you write better software.
 * [RIPS](https://www.ripstech.com/) - The superior security software for PHP applications. Source code static analyser for vulnerabilities.
 * [Scrutinizer](https://scrutinizer-ci.com/) - Improve code quality and find bugs before they hit production with our continuous inspection platform.
 * [Sourcegraph](https://about.sourcegraph.com/) - Understand and search across your entire codebase
