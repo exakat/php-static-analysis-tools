@@ -62,6 +62,7 @@ Tools to report issues in code that are or lead to bugs.
 * [Progpilot](https://github.com/designsecurity/progpilot) - A static analysis tool for security purposes.
 * [Psalm](https://getpsalm.org/) - A static analysis tool for finding errors in PHP applications.
 * [psecio:parse](https://github.com/psecio/parse.git) - Parse : A PHP Security Scanner.
+* [Qodana PHP by JetBrains](https://www.jetbrains.com/help/qodana/qodana-php.html) – A static analysis tool for PHP projects based on PhpStorm.
 * [SonarQube](http://www.sonarqube.org/) - An open platform to manage code quality. It covers PHP code.
 * [Side Channel Analyzer](https://github.com/olivo/side-channel-analyzer) - Search for side-channel vulnerable code.
 * [TaintPHP](https://github.com/olivo/TaintPHP.git) - Static Taint Analyzer.
