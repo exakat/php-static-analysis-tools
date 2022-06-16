@@ -62,6 +62,7 @@ Tools to report issues in code that are or lead to bugs.
 * [Progpilot](https://github.com/designsecurity/progpilot) - A static analysis tool for security purposes.
 * [Psalm](https://getpsalm.org/) - A static analysis tool for finding errors in PHP applications.
 * [psecio:parse](https://github.com/psecio/parse.git) - Parse : A PHP Security Scanner.
+* [Qodana PHP by JetBrains](https://www.jetbrains.com/help/qodana/qodana-php.html) – A static analysis tool for PHP projects based on PhpStorm.
 * [SonarQube](http://www.sonarqube.org/) - An open platform to manage code quality. It covers PHP code.
 * [Side Channel Analyzer](https://github.com/olivo/side-channel-analyzer) - Search for side-channel vulnerable code.
 * [TaintPHP](https://github.com/olivo/TaintPHP.git) - Static Taint Analyzer.
@@ -88,6 +89,7 @@ Tools to review the way PHP code was written and more.
 Libraries that may be the base for a home-made static analyzer.
 
 * [Deptrac](https://github.com/sensiolabs-de/deptrac.git) - A static code analysis tool to enforce rules for dependencies between software layers.
+* [PHPArkitect](https://github.com/phparkitect/arkitect) - A static code analysis tool to enforce architectural rules in your codebase
 * [PHP-cfg](https://github.com/ircmaxell/php-cfg) - A Control Flow Graph implementation in PHP. Written by IrcMaxwell.
 * [PHP coupling detector](https://github.com/akeneo/php-coupling-detector) - Check that code has no unwanted coupled classes.
 * [PHP Parser](https://github.com/nikic/PHP-Parser) - Written in PHP by Nikita Popov and based on actual grammar of PHP.
@@ -102,6 +104,7 @@ Tools to automatically fix the code they are provided with.
 
 * [Rector](https://github.com/rectorphp/rector) - AST-based Instant Upgrades of PHP Applications
 * [FunctionFQNReplacer](https://github.com/Roave/FunctionFQNReplacer) - provides a way to replace relative references of functions in function calls with absolute references.
+* [Phpactor](https://github.com/phpactor/phpactor) - This project aims to provide heavy-lifting refactoring and introspection tools.
 * [PHP BackSlasher](https://github.com/nilportugues/php-backslasher) - Tool to add all PHP internal functions and constants to its namespace by adding backslash to them.
 * [php-refactoring-browser](https://github.com/QafooLabs/php-refactoring-browser) - CLI refactoring tool.
 * [PHP CS Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - Analyzes and tries to fix coding standards issues (PSR-1 and PSR-2 compatible).
@@ -121,6 +124,7 @@ Tools to measure the code complexity, line of codes, etc.
 * [PHPLOC](https://github.com/sebastianbergmann/phploc) - Utility to measures PHP application size and count various structures.
 * [PHP Metrics](https://github.com/Halleck45/PhpMetrics) - Calculates all sorts of metrics, and display them in a gorgeous interface.
 * [PHP Semantic Versioning Checker](https://github.com/tomzx/php-semver-checker) - Compares two source sets and determines the appropriate semantic versioning to apply.
+* [PhpStats](https://github.com/i582/phpstats) - Tool for collecting statistics, metrics, dependencies, and building various graphs for large projects to find bottlenecks.
 * [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) - Static code analysis to provide and verify a dependency graph against a defined architecture.
 * [Quality Analyzer](https://github.com/Qafoo/QualityAnalyzer.git) - Quality Analyzer is a tool to visualize metrics and source code.
 
@@ -138,18 +142,20 @@ Online services for PHP code, provide dashboards. They may use the previous tool
 * [Bliss](https://blissai.com/index.html) - Automatically reviews code in real-time and shows how much it's worth in lines of code.
 * [Checkmarx](http://lp.checkmarx.com/php-code-analysis/) - Get a full PHP  static security code analysis and prevent security vulnerabilities.
 * [Codacy](https://www.codacy.com/) - Codacy: Automated Code Review.
+* [CodeBeaat](https://codebeat.co/) - Decrease technical debt. Find refactoring opportunities.
 * [Code Climate](https://codeclimate.com) - Hosted static analysis for Ruby, PHP and JavaScript source code.
 * [CodeScene](https://codescene.io/) - Prioritize technical debt in PHP, JavaScript, etc.
-* [DeepSource](https://deepsource.io/) - Automated code reviews for developers and engineering teams.
+* [Deepsource](https://deepsource.io/) - DeepSource is a modern static analysis platform, built for engineering teams who move fast and don’t break things.
 * [Insight](https://insight.sensiolabs.com/) - A SensioLabs tool to analyzes source code to find problems that degrade the overall quality of your projects.
+* [Insphpect](https://insphpect.com/) - Insphpect is an automated code review tool which identifies inflexibilities in PHP code and helps you write better software.
 * [RIPS](https://www.ripstech.com/) - The superior security software for PHP applications. Source code static analyser for vulnerabilities.
 * [Scrutinizer](https://scrutinizer-ci.com/) - Improve code quality and find bugs before they hit production with our continuous inspection platform.
+* [Sourcegraph](https://about.sourcegraph.com/) - Understand and search across your entire codebase
 * [SideCI](https://sideci.com/) - CI for automated code review by code analysis.
 * [Laravelshift](https://laravelshift.com/) - the automated way to upgrade Laravel applications. Upgrade Laravel applications all the way from Laravel 4.2 to the latest version of Laravel.
 
 ## Misc
 
-* [devbug](http://www.devbug.co.uk/) - Ongoing work on PHP Analysis in Rascal (PHP AiR).
 * [HHVM](http://hhvm.com/) - Hack Language from Facebook. Add a SCA until version 3.3.8, newer version doesn't have anymore.
 * [PHP Manipulator](https://github.com/schmittjoh/php-manipulator) - A library for analysing and modifying PHP Source Code.
 * [PHP Parser](https://github.com/glayzzle/php-parser) - A NodeJS library for parsing PHP and extracting tokens and AST.
