@@ -127,7 +127,6 @@ Tools to measure the code complexity, line of codes, etc.
 * [dePHPend](https://github.com/mihaeu/dephpend) - dePHPend helps analyze dependencies & architecture and allows you to define constraints for both.
 * [Dissect](https://github.com/jakubledl/dissect) - A set of tools for lexical and syntactical analysis.
 * [php-arguments-detector](https://github.com/DeGraciaMathieu/php-arguments-detector) - Keep control over the complexity of your methods by checking that they do not have too many arguments.
-* [PHPLOC](https://github.com/sebastianbergmann/phploc) - Utility to measures PHP application size and count various structures.
 * [PHP Metrics](https://github.com/Halleck45/PhpMetrics) - Calculates all sorts of metrics, and display them in a gorgeous interface.
 * [PHP Semantic Versioning Checker](https://github.com/tomzx/php-semver-checker) - Compares two source sets and determines the appropriate semantic versioning to apply.
 * [PhpStats](https://github.com/i582/phpstats) - Tool for collecting statistics, metrics, dependencies, and building various graphs for large projects to find bottlenecks.
