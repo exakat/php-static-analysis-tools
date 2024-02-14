@@ -82,6 +82,7 @@ Tools to review the way PHP code was written and more.
 
 * [Pahout](https://github.com/wata727/pahout) - A pair programming partner for writing better PHP.
 * [EasyCodingStandard](https://github.com/Symplify/EasyCodingStandard) - An easy to use tool, that allows to use CodeSniffer and PHP-CS-Fixer in simple way.
+* [editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker.php) - A tool to verify that your files are in harmony with your .editorconfig
 * [PHPas](https://github.com/BaseMax/PHPAS.git) - A tool for format and beautify the style of PHP code with my style.
 * [PHPArkitect](https://github.com/phparkitect/arkitect) - PHPArkitect helps you to keep your PHP codebase coherent and solid, by permitting to add some architectural constraint check to your workflow. 
 * [PHP Code Sniffer](https://github.com/squizlabs/PHP_CodeSniffer) - PHPCS checks the code for a large range of coding standard.
