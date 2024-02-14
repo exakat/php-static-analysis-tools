@@ -23,6 +23,7 @@ Tools to report issues in code that are or lead to bugs.
 * [AppChecker](https://npo-echelon.ru/en/solutions/appchecker.php) - static analysis tool for finding bugs, weaknesses and vulnerabilities in source code
 * [Code insight](https://github.com/console-helpers/code-insight) - A tool for analysing other project code bases.
 * [Churn-PHP](https://github.com/bmitch/churn-php.git) - Discover files in need of refactoring.
+* [composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) - Fast detection of composer dependency issues (unused dependencies, shadow dependencies, misplaced dependencies)
 * [Composer-Unused](https://github.com/composer-unused/composer-unused.git) - A Composer tool to show unused Composer dependencies by scanning your code.
 * [Eir](https://github.com/Lixody/Eir) - A static vulnerability analysis tool written in C#.
 * [Exakat](http://www.exakat.io/) - Smart static analysis.
