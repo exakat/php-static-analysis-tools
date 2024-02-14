@@ -28,6 +28,7 @@ Tools to report issues in code that are or lead to bugs.
 * [Exakat](http://www.exakat.io/) - Smart static analysis.
 * [jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code. 
 * [Mondrian](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
+* [name-collision-detector](https://github.com/shipmonk-rnd/name-collision-detector) - Detects symbol duplicates (class name collissions).
 * [noverify](https://github.com/VKCOM/noverify) - Pretty fast linter (code static analysis utility) for PHP.
 * [Pfff](https://github.com/facebook/pfff) - Tools for code analysis, visualizations, or style-preserving source transformation.
 * [phanalist](https://github.com/denzyldick/phanalist.git) - A static analyzer for PHP. It helps you catch common mistakes in your PHP code.
