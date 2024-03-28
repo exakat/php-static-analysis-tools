@@ -22,6 +22,7 @@ Tools to report issues in code that are or lead to bugs.
 
 * [AppChecker](https://npo-echelon.ru/en/solutions/appchecker.php) - static analysis tool for finding bugs, weaknesses and vulnerabilities in source code
 * [Code insight](https://github.com/console-helpers/code-insight) - A tool for analysing other project code bases.
+* [AST Metrics](https://github.com/Halleck45/ast-metrics) - A blazing-fast static code analyzer that help your to identify code that needs to be refactored.
 * [Churn-PHP](https://github.com/bmitch/churn-php.git) - Discover files in need of refactoring.
 * [Composer-Unused](https://github.com/composer-unused/composer-unused.git) - A Composer tool to show unused Composer dependencies by scanning your code.
 * [Eir](https://github.com/Lixody/Eir) - A static vulnerability analysis tool written in C#.
@@ -125,6 +126,7 @@ Tools to automatically fix the code they are provided with.
 
 Tools to measure the code complexity, line of codes, etc.
 
+* [AST Metrics](https://github.com/Halleck45/ast-metrics) - A blazing-fast static code analyzer that calculates various metrics to help identify code that needs to be refactored, and provides a beautiful graphical interface.
 * [churn-php](https://github.com/bmitch/churn-php) - Helps discover good candidates for refactoring.
 * [Design Pattern Detector](https://github.com/Halleck45/DesignPatternDetector.git) - detection of design patterns in PHP code.
 * [dePHPend](https://github.com/mihaeu/dephpend) - dePHPend helps analyze dependencies & architecture and allows you to define constraints for both.
