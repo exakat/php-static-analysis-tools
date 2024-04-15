@@ -85,7 +85,7 @@ Tools to review the way PHP code was written and more.
 * [EasyCodingStandard](https://github.com/Symplify/EasyCodingStandard) - An easy to use tool, that allows to use CodeSniffer and PHP-CS-Fixer in simple way.
 * [PHPas](https://github.com/BaseMax/PHPAS.git) - A tool for format and beautify the style of PHP code with my style.
 * [PHPArkitect](https://github.com/phparkitect/arkitect) - PHPArkitect helps you to keep your PHP codebase coherent and solid, by permitting to add some architectural constraint check to your workflow. 
-* [PHP Code Sniffer](https://github.com/squizlabs/PHP_CodeSniffer) - PHPCS checks the code for a large range of coding standard.
+* [PHP Code Sniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHPCS checks and auto-fixes the code for a large range of coding standard.
 * [PHPCheckstyle](https://github.com/PHPCheckstyle/phpcheckstyle) - A tool to help adhere to certain coding conventions.
 * [PHP Doc Check](https://github.com/NielsdeBlaauw/php-doc-check) - Uses complexity metrics to enforce documentation conventions on non-trivial functions.
 * [PHP formatter](https://github.com/mmoreram/php-formatter) - This PHP formatter aims to provide you some bulk actions for you PHP projects to ensure their consistency.
