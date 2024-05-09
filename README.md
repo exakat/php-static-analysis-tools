@@ -70,7 +70,6 @@ Tools to report issues in code that are or lead to bugs.
 * [SonarQube](http://www.sonarqube.org/) - An open platform to manage code quality. It covers PHP code.
 * [Side Channel Analyzer](https://github.com/olivo/side-channel-analyzer) - Search for side-channel vulnerable code.
 * [TaintPHP](https://github.com/olivo/TaintPHP.git) - Static Taint Analyzer.
-* [Taint'em All](http://taint.spro.ink/) - A taint analysis tool for the PHP language, it makes use of Static Taint Analysis + Symbolic Execution.
 * [Tuli](https://github.com/ircmaxell/Tuli) - A static analysis engine.
 * [Unused-scanner](https://github.com/Insolita/unused-scanner.git) - Detect unused composer dependencies
 * [WAP](https://www.owasp.org/index.php/OWASP_WAP-Web_Application_Protection) - Tool to detect and correct input validation vulnerabilities in PHP (4.0 or higher) web applications and predicts false positives. 
@@ -152,14 +151,13 @@ Online services for PHP code, provide dashboards. They may use the previous tool
 
 
 * [Bliss](https://blissai.com/index.html) - Automatically reviews code in real-time and shows how much it's worth in lines of code.
-* [Checkmarx](http://lp.checkmarx.com/php-code-analysis/) - Get a full PHP  static security code analysis and prevent security vulnerabilities.
 * [Codacy](https://www.codacy.com/) - Codacy: Automated Code Review.
 * [CodeBeaat](https://codebeat.co/) - Decrease technical debt. Find refactoring opportunities.
 * [Code Climate](https://codeclimate.com) - Hosted static analysis for Ruby, PHP and JavaScript source code.
 * [CodeScene](https://codescene.io/) - Prioritize technical debt in PHP, JavaScript, etc.
 * [Codegrip](https://www.codegrip.tech/) - Smarter & Secure way to Code Review 
 * [Deepsource](https://deepsource.io/) - DeepSource is a modern static analysis platform, built for engineering teams who move fast and don’t break things.
-* [Insight](https://insight.sensiolabs.com/) - A SensioLabs tool to analyzes source code to find problems that degrade the overall quality of your projects.
+* [Insight](https://insight.symfony.com/) - A SensioLabs tool to analyzes source code to find problems that degrade the overall quality of your projects.
 * [Insphpect](https://insphpect.com/) - Insphpect is an automated code review tool which identifies inflexibilities in PHP code and helps you write better software.
 * [RIPS](https://www.ripstech.com/) - The superior security software for PHP applications. Source code static analyser for vulnerabilities.
 * [Scrutinizer](https://scrutinizer-ci.com/) - Improve code quality and find bugs before they hit production with our continuous inspection platform.
@@ -176,5 +174,4 @@ Online services for PHP code, provide dashboards. They may use the previous tool
 * [Fixtro](https://github.com/karlosagudo/fixtro) - A wrapper that allow to run in each precommit. It install itself all the dependencies for the runners with a lot of them (phpunit, phpmd, php-cs-fixer, etc..)
 * [Coverage Checker](https://github.com/exussum12/coverageChecker) - A tool which allows some of the tools here to be enforced on changed code only. Good for moving towards new standards
 * [Composer Require Checker](https://github.com/maglnet/ComposerRequireChecker) - A CLI tool to check whether a specific composer package uses imported symbols that aren't part of its direct composer dependencies
-* [phpstaticanalysis.com](https://phpstaticanalysis.com/demo) - A website that lets you try some PHP static analysis command-line tools online
 * [Static Analysis Results Baseliner](https://github.com/DaveLiddament/sarb) - A tool for generating a baseline from static analysis tools. 
