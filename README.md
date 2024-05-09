@@ -45,6 +45,7 @@ Tools to report issues in code that are or lead to bugs.
 * [Phan](https://github.com/etsy/phan) - The static analyzer by Rasmus, PHP Creator.
 * [Phinder](https://github.com/sider/phinder.git) - PHP code piece finder
 * [Phortress](https://github.com/lowjoel/phortress) - A PHP static code analyser for potential vulnerabilities.
+* [PHP Compatibility](https://github.com/PHPCompatibility/PHPCompatibility/) - Find code which is incompatible with a specified range of PHP versions.
 * [PHP Deprecation Detector](https://github.com/wapmorgan/PhpDeprecationDetector) - PhpDeprecationDetector - analyzer of PHP code to search usages of deprecated functionality in newer interpreter versions.
 * [PHP Code Static Analysis](https://github.com/joaaoleite/code-static-analysis) - PHP Code static analysis program made in nodeJS.
 * [PHP Inspection](https://plugins.jetbrains.com/plugin/7622?pr=idea) - Static analysis plugin for PHPStorm.
