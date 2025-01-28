@@ -115,6 +115,7 @@ Tools to automatically fix the code they are provided with.
 
 * [Rector](https://github.com/rectorphp/rector) - AST-based Instant Upgrades of PHP Applications
 * [FunctionFQNReplacer](https://github.com/Roave/FunctionFQNReplacer) - provides a way to replace relative references of functions in function calls with absolute references.
+* [Mago](https://mago.carthage.software/#/) - Mago: The Oxidized PHP Toolchain
 * [Phpactor](https://github.com/phpactor/phpactor) - This project aims to provide heavy-lifting refactoring and introspection tools.
 * [PHP BackSlasher](https://github.com/nilportugues/php-backslasher) - Tool to add all PHP internal functions and constants to its namespace by adding backslash to them.
 * [php-refactoring-browser](https://github.com/QafooLabs/php-refactoring-browser) - CLI refactoring tool.
