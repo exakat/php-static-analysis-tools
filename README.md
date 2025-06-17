@@ -74,7 +74,8 @@ Tools to report issues in code that are or lead to bugs.
 * [TaintPHP](https://github.com/olivo/TaintPHP.git) - Static Taint Analyzer.
 * [Tuli](https://github.com/ircmaxell/Tuli) - A static analysis engine.
 * [Unused-scanner](https://github.com/Insolita/unused-scanner.git) - Detect unused composer dependencies
-* [WAP](https://www.owasp.org/index.php/OWASP_WAP-Web_Application_Protection) - Tool to detect and correct input validation vulnerabilities in PHP (4.0 or higher) web applications and predicts false positives. 
+* [WAP](https://www.owasp.org/index.php/OWASP_WAP-Web_Application_Protection) - Tool to detect and correct input validation vulnerabilities in PHP (4.0 or higher) web applications and predicts false positives.
+* [Vulert](vulert.com) - Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports PHP, Java, Python, and more.
 * [PHP VarDump Check](https://github.com/php-parallel-lint/PHP-Var-Dump-Check) - PHP console application for finding forgotten variable dump.
 * [17eyes](https://github.com/17eyes/17eyes) - PHP static analyzer written in Haskell.
 * [CakeFuzzer](https://zigrin.com/tools/cake-fuzzer) - Ultimate web application security testing tool for CakePHP based web applications.
