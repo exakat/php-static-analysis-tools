@@ -145,7 +145,7 @@ Tools to measure the code complexity, line of codes, etc.
 * [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) - Static code analysis to provide and verify a dependency graph against a defined architecture.
 * [php-wording-detector](https://github.com/DeGraciaMathieu/php-wording-detector) - Simple tool to analyze and split the words contained in your code to check your DDD approach.
 * [Quality Analyzer](https://github.com/Qafoo/QualityAnalyzer.git) - Quality Analyzer is a tool to visualize metrics and source code.
-* [PHPInsights] (https://github.com/nunomaduro/phpinsights) - AST based, rule driven, metric oriented static code quality analyzer
+* [PHPInsights](https://github.com/nunomaduro/phpinsights) - AST based, rule driven, metric oriented static code quality analyzer
 
 ### Visualization
 
