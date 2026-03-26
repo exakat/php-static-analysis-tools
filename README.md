@@ -20,6 +20,8 @@ See [CONTRIBUTING](https://github.com/exakat/php-static-analysis-tools/blob/mast
 
 Tools to report issues in code that are or lead to bugs.
 
+* [PHP Static Type Checker](https://github.com/Jumping-Beaver/PHP_Static_Type_Checker) - Single-file
+  command-line application to validate type hints, depending only on the `php-ast` extension.
 * [AppChecker](https://npo-echelon.ru/en/solutions/appchecker.php) - static analysis tool for finding bugs, weaknesses and vulnerabilities in source code
 * [Code insight](https://github.com/console-helpers/code-insight) - A tool for analysing other project code bases.
 * [AST Metrics](https://github.com/Halleck45/ast-metrics) - A blazing-fast static code analyzer that help your to identify code that needs to be refactored.
