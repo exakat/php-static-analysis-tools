@@ -19,9 +19,7 @@ See [CONTRIBUTING](https://github.com/exakat/php-static-analysis-tools/blob/mast
 ### Bugs finders
 
 Tools to report issues in code that are or lead to bugs.
-
-* [PHP Static Type Checker](https://github.com/Jumping-Beaver/PHP_Static_Type_Checker) - Single-file
-  command-line application to validate type hints, depending only on the `php-ast` extension.
+* [Abom](https://vulert.com/abom) - Vulert finds and monitors open source vulnerabilities from manifest files or SBOMs.
 * [AppChecker](https://npo-echelon.ru/en/solutions/appchecker.php) - static analysis tool for finding bugs, weaknesses and vulnerabilities in source code
 * [Code insight](https://github.com/console-helpers/code-insight) - A tool for analysing other project code bases.
 * [AST Metrics](https://github.com/Halleck45/ast-metrics) - A blazing-fast static code analyzer that help your to identify code that needs to be refactored.
@@ -65,8 +63,9 @@ Tools to report issues in code that are or lead to bugs.
 * [PHP Reaper](https://github.com/emanuil/php-reaper.git) - Scan ADOdb code for SQL Injections.
 * [PHP SA](https://github.com/ovr/phpsa) - A development tool aimed at bringing complex analysis for PHP applications and libraries.
 * [PHP Stan](https://github.com/phpstan/phpstan) - Focuses on finding errors in code without actually running it.
-* [PHP Unlocker](http://emanuilslavov.com/php-unlocker/) - Detect potential, unintended DB table locks for PHP applications using ADOdb. Uses static analysis methods.
+* [PHP Static Type Checker](https://github.com/Jumping-Beaver/PHP_Static_Type_Checker) - Single-file command-line application to validate type hints, depending only on the `php-ast` extension.
 * [PHP testability](https://github.com/edsonmedina/php_testability) - Analyses and produces a report with testability issues of a php codebase.
+* [PHP Unlocker](http://emanuilslavov.com/php-unlocker/) - Detect potential, unintended DB table locks for PHP applications using ADOdb. Uses static analysis methods.
 * [PHP vuln hunter](https://github.com/OneSourceCat/phpvulhunter) - Scan PHP vulnerabilities automatically using static analysis methods.
 * [Progpilot](https://github.com/designsecurity/progpilot) - A static analysis tool for security purposes.
 * [Psalm](https://getpsalm.org/) - A static analysis tool for finding errors in PHP applications.
@@ -77,7 +76,8 @@ Tools to report issues in code that are or lead to bugs.
 * [TaintPHP](https://github.com/olivo/TaintPHP.git) - Static Taint Analyzer.
 * [Tuli](https://github.com/ircmaxell/Tuli) - A static analysis engine.
 * [Unused-scanner](https://github.com/Insolita/unused-scanner.git) - Detect unused composer dependencies
-* [WAP](https://www.owasp.org/index.php/OWASP_WAP-Web_Application_Protection) - Tool to detect and correct input validation vulnerabilities in PHP (4.0 or higher) web applications and predicts false positives. 
+* [WAP](https://www.owasp.org/index.php/OWASP_WAP-Web_Application_Protection) - Tool to detect and correct input validation vulnerabilities in PHP (4.0 or higher) web applications and predicts false positives.
+* [Vulert](vulert.com) - Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports PHP, Java, Python, and more.
 * [PHP VarDump Check](https://github.com/php-parallel-lint/PHP-Var-Dump-Check) - PHP console application for finding forgotten variable dump.
 * [17eyes](https://github.com/17eyes/17eyes) - PHP static analyzer written in Haskell.
 * [CakeFuzzer](https://zigrin.com/tools/cake-fuzzer) - Ultimate web application security testing tool for CakePHP based web applications.
