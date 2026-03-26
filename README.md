@@ -188,3 +188,4 @@ Online services for PHP code, provide dashboards. They may use the previous tool
 * [Coverage Checker](https://github.com/exussum12/coverageChecker) - A tool which allows some of the tools here to be enforced on changed code only. Good for moving towards new standards
 * [Composer Require Checker](https://github.com/maglnet/ComposerRequireChecker) - A CLI tool to check whether a specific composer package uses imported symbols that aren't part of its direct composer dependencies
 * [Static Analysis Results Baseliner](https://github.com/DaveLiddament/sarb) - A tool for generating a baseline from static analysis tools. 
+* [Larastan](https://github.com/larastan/larastan.git) - Larastan focuses on finding errors in your Laravel code. It catches whole classes of bugs even before you write tests for the code.
