@@ -135,6 +135,7 @@ Tools to measure the code complexity, line of codes, etc.
 * [Design Pattern Detector](https://github.com/Halleck45/DesignPatternDetector.git) - detection of design patterns in PHP code.
 * [dePHPend](https://github.com/mihaeu/dephpend) - dePHPend helps analyze dependencies & architecture and allows you to define constraints for both.
 * [Dissect](https://github.com/jakubledl/dissect) - A set of tools for lexical and syntactical analysis.
+* [PhpCodeArcheology](https://github.com/PhpCodeArcheology/PhpCodeArcheology) - PhpCodeArcheology is a PHP static analysis tool that measures code quality through 60+ metrics including cyclomatic complexity, maintainability index, coupling, and cohesion. 
 * [php-arguments-detector](https://github.com/DeGraciaMathieu/php-arguments-detector) - Keep control over the complexity of your methods by checking that they do not have too many arguments.
 * [php-smelly-code-detector](https://github.com/DeGraciaMathieu/php-smelly-code-detector) - PHP code smell detector.
 * [php-class-dependencies-analyzer](https://github.com/DeGraciaMathieu/php-class-dependencies-analyzer) - This tool allows you to monitor the dependencies and instability of your classes
@@ -159,7 +160,8 @@ Online services for PHP code, provide dashboards. They may use the previous tool
 
 * [Bliss](https://blissai.com/index.html) - Automatically reviews code in real-time and shows how much it's worth in lines of code.
 * [Codacy](https://www.codacy.com/) - Codacy: Automated Code Review.
-* [CodeBeaat](https://codebeat.co/) - Decrease technical debt. Find refactoring opportunities.
+* [CodeBeat](https://codebeat.co/) - Decrease technical debt. Find refactoring opportunities.
+* [codeac](https://www.codeac.io/) - A Spell-check for Developers.
 * [Code Climate](https://codeclimate.com) - Hosted static analysis for Ruby, PHP and JavaScript source code.
 * [CodeScene](https://codescene.io/) - Prioritize technical debt in PHP, JavaScript, etc.
 * [Codegrip](https://www.codegrip.tech/) - Smarter & Secure way to Code Review 
