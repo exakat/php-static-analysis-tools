@@ -26,6 +26,7 @@ Tools to report issues in code that are or lead to bugs.
 * [Churn-PHP](https://github.com/bmitch/churn-php.git) - Discover files in need of refactoring.
 * [composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) - Fast detection of composer dependency issues (unused dependencies, shadow dependencies, misplaced dependencies)
 * [Composer-Unused](https://github.com/composer-unused/composer-unused.git) - A Composer tool to show unused Composer dependencies by scanning your code.
+* [Coverage Guard](https://github.com/shipmonk-rnd/coverage-guard) - Enforce PHP code coverage in your CI. Not by percentage, but target core methods! Allows you to start enforcing coverage for new code only! 
 * [Eir](https://github.com/Lixody/Eir) - A static vulnerability analysis tool written in C#.
 * [Exakat](http://www.exakat.io/) - Smart static analysis.
 * [jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code. 
