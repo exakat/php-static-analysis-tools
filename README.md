@@ -71,8 +71,8 @@ Tools to report issues in code that are or lead to bugs.
 * [Psalm](https://getpsalm.org/) - A static analysis tool for finding errors in PHP applications.
 * [psecio:parse](https://github.com/psecio/parse.git) - Parse : A PHP Security Scanner.
 * [Qodana PHP by JetBrains](https://www.jetbrains.com/help/qodana/qodana-php.html) – A static analysis tool for PHP projects based on PhpStorm.
-* [SonarQube](http://www.sonarqube.org/) - An open platform to manage code quality. It covers PHP code.
 * [Side Channel Analyzer](https://github.com/olivo/side-channel-analyzer) - Search for side-channel vulnerable code.
+* [Type Checker](https://github.com/kubawerlos/types-checker) - A tool to find missing type declarations in PHP 7 code.
 * [TaintPHP](https://github.com/olivo/TaintPHP.git) - Static Taint Analyzer.
 * [Tuli](https://github.com/ircmaxell/Tuli) - A static analysis engine.
 * [Unused-scanner](https://github.com/Insolita/unused-scanner.git) - Detect unused composer dependencies
@@ -156,6 +156,14 @@ Tools to measure the code complexity, line of codes, etc.
 Tools that display PHP code in graphical way
 
 * [PHPcity](https://github.com/adrianhuna/PHPCity) - PHPCity is an implementation of city metaphor visualization and provides visualization of PHP projects which are implemented in the object-oriented fashion.
+
+### Also supports PHP
+
+Tools that scan multiple languages, and also supports PHP.
+
+* [Opengrep](https://github.com/opengrep/opengrep) - Opengrep is the most advanced open source SAST engine.
+* [Semgrep](https://github.com/semgrep/semgrep) - Semgrep is a fast, open-source, static analysis tool that searches code, finds bugs, and enforces secure guardrails and coding standards. 
+* [SonarQube](http://www.sonarqube.org/) - An open platform to manage code quality. It covers PHP code.
 
 ### SaaS
 
